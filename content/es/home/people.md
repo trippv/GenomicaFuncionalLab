@@ -9,7 +9,7 @@ active: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Grupo de Trabajo
+title: Equipo de Trabajo
 subtitle: Conoce nuestro grupo de investigación
 
 content:
@@ -23,8 +23,12 @@ content:
   - Visitantes
   - Posdoctorantes
   - Técnicos de Laboratorio
+  
 design:
   show_interests: false
   show_role: true
-  show_social: true
+  show_social: false
+  show_intro: true
+  
+  
 ---
