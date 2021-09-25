@@ -7,6 +7,7 @@
 {{ $show_interests := $page.Params.design.show_interests | default true }}
 {{ $show_organizations := $page.Params.design.show_organizations | default false }}
 {{ $show_role := $page.Params.design.show_role | default true }}
+{{ $show_intro := $page.Params.design.show_intro | default true }}
 
 <div class="row justify-content-center people-widget">
   {{ with $page.Title }}
@@ -56,6 +57,7 @@
       {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
       {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+      {{ if and $show_intro .Params.intro }}<p class="people-interests">{{ .Params.intro | markdownify | emojify }}</p>{{ end }}
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
     </div>
   </div>

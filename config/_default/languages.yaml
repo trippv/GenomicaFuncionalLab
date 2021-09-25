@@ -18,9 +18,9 @@ es:
   menu:
     main:
       - name: Acerca
-        url: '#about'
+        url: '#intro'
         weight: 1
-      - name: Grupo de Trabajo
+      - name: Equipo de Trabajo
         url: '#people'
         weight: 20
       - name: Proyectos
