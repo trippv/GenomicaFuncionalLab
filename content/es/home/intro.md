@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 20
 
 title: Acerca de nosotros
 subtitle:
@@ -29,12 +29,17 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+El Laboratorio de Genómica Funcional se encuentra dentro del [Centro de Investigación Científica y de Educación Superior de Ensenada, B.J.](https://www.cicese.edu.mx/). Nuestras investigaciones se enfocan en el uso de herramientas genómicas y transcriptómicas para 
+
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 
 **Nuestras líneas de investigación:**
 
-  * Efectos de las variaciones ambientales sobre los moluscos mediante una aproximación genómica y transcriptómica
+  * Efectos de las variaciones ambientales sobre organismos marinos mediante una aproximación genómica y transcriptómica
+  
 
   * Impactos biológicos de la variabilidad térmica y clima extremo en ectotermos marinos bentónicos: Aptitud biológica, potencial de adaptación y plasticidad fenotípica.
 
