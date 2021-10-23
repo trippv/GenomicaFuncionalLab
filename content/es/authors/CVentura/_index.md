@@ -18,7 +18,7 @@ intro:
 
 # Interests to show in About widget
 interests: 
-- something
+- Pulpos
 - 
 - 
 
