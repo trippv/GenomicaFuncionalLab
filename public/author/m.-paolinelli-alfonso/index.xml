@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Paolinelli-Alfonso | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/m.-paolinelli-alfonso/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/m.-paolinelli-alfonso/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Paolinelli-Alfonso</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <title>M. Paolinelli-Alfonso</title>
+      <link>https://academic-demo.netlify.app/author/m.-paolinelli-alfonso/</link>
+    </image>
+    
+    <item>
+      <title>Global transcriptional analysis suggests Lasiodiplodia theobromae pathogenicity factors involved in modulation of grapevine defensive response</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative real-time PCR normalization for gene expression studies in the plant pathogenic fungi Lasiodiplodia theobromae</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

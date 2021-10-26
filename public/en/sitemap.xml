@@ -279,29 +279,9 @@
   </url><url>
     <loc>https://academic-demo.netlify.app/en/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/publication-type/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/publication-type/3/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/publication/preprint/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -331,16 +311,6 @@
   </url><url>
     <loc>https://academic-demo.netlify.app/en/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/tag/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/tag/source-themes/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
@@ -396,29 +366,9 @@
   </url><url>
     <loc>https://academic-demo.netlify.app/en/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/tag/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/tag/demo/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/project/external-project/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -461,55 +411,15 @@
   </url><url>
     <loc>https://academic-demo.netlify.app/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/publication/journal-article/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/author/robert-ford/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/author/robert-ford/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/publication-type/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/publication-type/1/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/publication/conference-paper/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/admin/</loc>
     <xhtml:link
@@ -536,52 +446,12 @@
                 />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/author/asuka-langley-shikinami/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/author/asuka-langley-shikinami/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/author/asuka-langley-shikinami/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/author/ikari-gendo/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/author/gendo-ikari/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/author/ikari-gendo/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/author/ramiel/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/author/ramiel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/author/ramiel/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/author/shinji-ikari/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://academic-demo.netlify.app/author/shinji-ikari/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://academic-demo.netlify.app/en/author/shinji-ikari/"
-                />
   </url><url>
     <loc>https://academic-demo.netlify.app/en/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <xhtml:link
