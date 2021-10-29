@@ -7,14 +7,14 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'minimal'
 font_size: L
 
 # SEO
 
 site_type: Person
 local_business_type: ''
-org_name: 'Genomica Funciona'
+org_name: 'Genomica Funcional'
 description: ''
 twitter: ''
 
@@ -59,12 +59,13 @@ coordinates:
 
 main_menu:
   enable: true
-  align: r
+  align: l
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
+
 
 # Localization
 
@@ -157,4 +158,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true

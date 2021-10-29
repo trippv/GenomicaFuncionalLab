@@ -6,7 +6,7 @@ title: José Manuel Morales
 superuser: false
 
 # Role/position/tagline
-role: Doctorante
+role: Estudiante de doctorado
 
 
 

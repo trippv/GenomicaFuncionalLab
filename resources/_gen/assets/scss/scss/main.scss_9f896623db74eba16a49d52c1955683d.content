@@ -9494,3 +9494,37 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+.hero-title {
+  font-size: 3.5rem;
+  margin-top: 0;
+  line-height: 1;
+  text-align: left; }
+
+.hero-lead {
+  max-width: 900px;
+  font-size: 1.5rem;
+  text-align: left; }
+
+.hero-overlay .hero-title,
+.hero-overlay .hero-lead,
+.hero-overlay .btn {
+  color: #fff;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5); }
+
+.hero-overlay a {
+  color: #fff; }
+
+.hero-overlay .hero-lead a {
+  color: #fff;
+  text-decoration-line: underline; }
+
+.hero-overlay .btn-large {
+  font-size: 1.1rem; }
+
+.hero-media {
+  padding: 10em;
+  opacity: 1;
+  position: relative;
+  left: 15px;
+  top: 20px; }
