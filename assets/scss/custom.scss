@@ -3,6 +3,7 @@
   margin-top: 0;
   line-height: 1;
   text-align: left;
+  max-width: 1000px
 }
 
 .hero-lead {
@@ -32,9 +33,18 @@
 }
 
 .hero-media {
-  padding: 10em;
-  opacity: 1;
-  position: relative;
-  left: 15px;
-  top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 25%;
+  text-align: right;
+  padding: 2em;
 }
+
+.hero-caption {
+  padding: 1em;
+  font-size: 5.1rem;
+  line-height: 1;
+  text-align: left;
+}
+

@@ -2,7 +2,7 @@
 title: Evaluación del efecto de la temperatura sobre los mecanismos moleculares y fisiológicos que regulan la reproducción de Octopus maya.
 
 # Subtitle, solo se despliega en la pagina del proyecto
-subtitle: Convocatoria Ciencia Básica SEP-CONACYT 
+summary: Convocatoria Ciencia Básica SEP-CONACYT 
 
 date: ""
 
@@ -22,4 +22,5 @@ url_slides: ""
 url_video: ""
 
 ---
+
 El pulpo maya _Octopus maya_ es una especie de importancia economica y con potencial acuicula. Al ser un organismo ectotérmico, la temperatura juega un papel fundamental en su éxito reproductivo. Por lo tanto, este proyecto tiene como meta comprender el papel que juegan las diversas glándulas en la regulación del éxito reproductivo y de que manera la temperatura afecta la regulación de las mismas. 

@@ -105,7 +105,7 @@ sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135

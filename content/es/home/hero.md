@@ -14,13 +14,13 @@ design:
     gradient_start: '#004ba0'
     text_color_light: true
     # Choose how many columns the section has. Valid values: 1 or 2.
-    columns: '2'
+    columns: '1'
     
 
 advanced:
   css_class: fullsize
 
-
+note: "blaaaaaaaa"
 
 ---
 
@@ -33,7 +33,7 @@ Nuestras investigaciones se enfocan a estudiar la diversidad marina y los efecto
 
 <br>
 
-<p style="font-size:8px">Photo: Crisitan Palmer.</p>
+<p style="font-size:8px;text-align:left">Photo: Crisitan Palmer.</p>
 
 
   
