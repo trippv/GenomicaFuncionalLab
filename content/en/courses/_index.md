@@ -2,9 +2,17 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: Graduate courses
 type: page
 view: 2
 ---
 
-I teach the following courses:
+
+we have many mnay courses
+
+
+El Laboratorio de Genómica Funcional y sus colaboradores participan en el posgrado en [Ciencia de la Vida](https://posgrados.cicese.mx/cienciasdelavida) de CICESE en la impartición de los siguientes cursos:
+
+<br>
+
+

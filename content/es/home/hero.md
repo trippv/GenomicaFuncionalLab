@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Bienvenidos al Laboratorio de Genómica Funcional
-#hero_media: octopus.svg
+hero_media: 
 
 
 design:
@@ -20,7 +20,6 @@ design:
 advanced:
   css_class: fullsize
 
-note: "blaaaaaaaa"
 
 ---
 
@@ -35,5 +34,9 @@ Nuestras investigaciones se enfocan a estudiar la diversidad marina y los efecto
 
 <p style="font-size:8px;text-align:left">Photo: Crisitan Palmer.</p>
 
-
-  
+<div class="hero-img-logo">
+<a href="https://cicese.com.mx/">
+         <img alt="Qries" src="https://cicese.edu.mx/cicese2/assets/img/cicese.png"
+         width=150" height="70">
+         </a>
+  </div>
