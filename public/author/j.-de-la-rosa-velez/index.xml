@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. {De La Rosa-Velez} | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/j.-de-la-rosa-velez/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/j.-de-la-rosa-velez/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. {De La Rosa-Velez}</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <title>J. {De La Rosa-Velez}</title>
+      <link>https://academic-demo.netlify.app/author/j.-de-la-rosa-velez/</link>
+    </image>
+    
+    <item>
+      <title>Assessment of genetic diversity of the eastern oyster Crassostrea virginica in Veracruz, Mexico using microsatellite markers</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New polymorphic microsatellite markers for California sea lions (Zalophus californianus)</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

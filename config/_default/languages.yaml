@@ -12,7 +12,7 @@ en:
 es:
   languageCode: es
   contentDir: content/es
-  title: Laboratorio de Genómica Funcional
+  title: Genómica Funcional
   params:
     description: Sitio del Laboratorio de Genómica Funcional de CICESE
   menu:
@@ -26,8 +26,8 @@ es:
       - name: Proyectos
         url: '#projects'
         weight: 30
-      - name: Artículos publicados
-        url: '#publication'
+      - name: Publicaciones
+        url: publication/
         weight: 40
       - name: Cursos
         url: courses/

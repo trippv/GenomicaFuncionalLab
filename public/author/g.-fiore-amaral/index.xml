@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Fiore-Amaral | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/g.-fiore-amaral/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/g.-fiore-amaral/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Fiore-Amaral</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <title>G. Fiore-Amaral</title>
+      <link>https://academic-demo.netlify.app/author/g.-fiore-amaral/</link>
+    </image>
+    
+    <item>
+      <title>Isolation of microsatellite loci in green abalone (Haliotis fulgens) and cross-species amplification in two other North American red (Haliotis rufescens) and pink (Haliotis corrugata) abalones</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2005-01-01_cruz2005857/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2005-01-01_cruz2005857/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

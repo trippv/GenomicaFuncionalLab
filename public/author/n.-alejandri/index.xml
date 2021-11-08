@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Alejandri | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/n.-alejandri/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/n.-alejandri/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Alejandri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <title>N. Alejandri</title>
+      <link>https://academic-demo.netlify.app/author/n.-alejandri/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptomic response and hydrocarbon accumulation in the eastern oyster (Crassostrea virginica) exposed to crude oil</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_lopez-landavery2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_lopez-landavery2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
