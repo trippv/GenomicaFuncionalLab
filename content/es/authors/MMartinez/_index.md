@@ -16,11 +16,35 @@ bio: something
 # Agregar intro
 intro: 
 
+
+
 # Interests to show in About widget
 interests: 
-- something
-- 
-- 
+- Bioinformática
+- Metabarcoding
+- Ecología microbiana
+
+
+# redes sociales: solo se usara RG, ORCID, y correo
+social:
+# Correo electronico:
+- icon: envelope
+  icon_pack: fas
+  link: 
+  
+# google scholar
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  name: google scholar
+  link: https://scholar.google.com.mx/citations?hl=en&user=5b9ONNAAAAAJ
+  
+
+- icon: orcid
+  icon_pack: fab
+  name: ORCID
+  link: "https://orcid.org/0000-0003-2429-8772"
+
+
 
 
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel A. Tripp Valdez | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/miguel-a.-tripp-valdez/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/miguel-a.-tripp-valdez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel A. Tripp Valdez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
+    <image>
+      <url>https://academic-demo.netlify.app/author/miguel-a.-tripp-valdez/avatar_hue59e30bff4fce5ac0473c28c65cc1c4a_157724_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Miguel A. Tripp Valdez</title>
+      <link>https://academic-demo.netlify.app/author/miguel-a.-tripp-valdez/</link>
+    </image>
+    
+  </channel>
+</rss>

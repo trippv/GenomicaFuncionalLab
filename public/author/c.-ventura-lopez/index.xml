@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Ventura-Lopez | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/c.-ventura-lopez/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/c.-ventura-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Ventura-Lopez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <title>C. Ventura-Lopez</title>
+      <link>https://academic-demo.netlify.app/author/c.-ventura-lopez/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptomic analysis reveals insights on male infertility in octopus maya under chronic thermal stress</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_lopez-galindo2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_lopez-galindo2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic information from Pacific white shrimp (Litopenaeus vannamei) ovary and eyestalk, and expression patterns for genes putatively involved in the reproductive process</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clara Elizabeth Galindo Sánchez | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/clara-elizabeth-galindo-sanchez/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/clara-elizabeth-galindo-sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clara Elizabeth Galindo Sánchez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
+    <image>
+      <url>https://academic-demo.netlify.app/author/clara-elizabeth-galindo-sanchez/avatar_hu5ceb1a5baa7643215d50955b5e83554f_488005_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Clara Elizabeth Galindo Sánchez</title>
+      <link>https://academic-demo.netlify.app/author/clara-elizabeth-galindo-sanchez/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Gonzalez-Martinez | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/s.-gonzalez-martinez/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/s.-gonzalez-martinez/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Gonzalez-Martinez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <title>S. Gonzalez-Martinez</title>
+      <link>https://academic-demo.netlify.app/author/s.-gonzalez-martinez/</link>
+    </image>
+    
+    <item>
+      <title>Aspergillus loretoensis, a single isolate from marine sediment of Loreto Bay, Baja California Sur, México resulting as a new obligate halophile species</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction to: Aspergillus loretoensis, a single isolate from marine sediment of Loreto Bay, Baja California Sur, México resulting as a new obligate halophile species (Extremophiles, (2019), 23, 5, (557-568), 10.1007/s00792-019-01107-6)</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

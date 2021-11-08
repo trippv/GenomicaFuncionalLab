@@ -1,0 +1,27 @@
++++
+title = "Transcriptomic response and hydrocarbon accumulation in the eastern oyster (Crassostrea virginica) exposed to crude oil"
+date = "2019-01-01"
+publication_types = ["2"]
+authors = ["E.A. Lopez-Landavery", "G. Amador-Cano", "N. Alejandri", "N. Ramirez-Alvarez", "I. Montelongo", "F. Diaz", "C.E. Galindo-Sanchez"]
+publication = "In: Comparative Biochemistry and Physiology Part - C: Toxicology and Pharmacology, (225), https://doi.org/10.1016/j.cbpc.2019.108571"
+abstract = "The adverse effect of crude oil on marine invertebrates is well known. To have a better understanding of its effects on marine invertebrates, Crassostrea virginica was exposed to different concentrations (50, 100 and 200 μg/L) of a mixture of super-light and light crude oil for two weeks, evaluating the transcriptomic response of the digestive gland using RNA-Seq and their accumulation in soft tissues. A total of 33,469,374 reads were assembled, which resulted in 61,356 genome assemblies (‘Genes’). Trinotate was used for transcript annotation. At the end of this process, 86,409 transcripts were maintained, comprising a broad set of enzymes from xenobiotics metabolism, oxidative stress, stress and immune responses, and energetic metabolism. The enrichment analysis revealed a change in biological processes and molecular functions, finding from 100 to 200 μg/L. Moreover, the differential gene expression analysis showed a dose-dependent transcriptional response, generally up to 100 μg/L and in some cases up to 200 μg/L, which suggested that oysters' response decreased after 100 μg/L; the analysis of crude oil presence in soft tissues indicated that C. virginica is a suitable candidate for ecotoxicology. Finally, these results should contribute to expanding current genomic resources for C. virginica. Furthermore, they will help to develop new studies in aquatic toxicology focused on knowledge in depth of metabolic pathways, jointly with other approaches (such as proteomics) to allow obtaining a complete idea about the eastern oyster response to crude oil. © 2019 Elsevier Inc."
+abstract_short = ""
+image_preview = ""
+selected = false
+projects = []
+tags = []
+url_pdf = ""
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++

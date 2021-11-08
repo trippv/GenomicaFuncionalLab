@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Mascaro | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/m.-mascaro/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/m.-mascaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Mascaro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <title>M. Mascaro</title>
+      <link>https://academic-demo.netlify.app/author/m.-mascaro/</link>
+    </image>
+    
+    <item>
+      <title>Thermal sensitivity of O. maya embryos as a tool for monitoring the effects of environmental warming in the Southern of Gulf of Mexico</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

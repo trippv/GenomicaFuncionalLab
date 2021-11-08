@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.G. Batta-Lona | Laboratorio de Genómica Funcional</title>
+    <link>https://academic-demo.netlify.app/author/p.g.-batta-lona/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/p.g.-batta-lona/index.xml" rel="self" type="application/rss+xml" />
+    <description>P.G. Batta-Lona</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <title>P.G. Batta-Lona</title>
+      <link>https://academic-demo.netlify.app/author/p.g.-batta-lona/</link>
+    </image>
+    
+    <item>
+      <title>Zooplankton summer composition in the southern Gulf of Mexico with emphasis on salp and hyperiid amphipod assemblages</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2020-01-01_hereu2020665/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2020-01-01_hereu2020665/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA barcoding and morphological taxonomy: identification of lanternfish (Myctophidae) larvae in the Gulf of Mexico</title>
+      <link>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_batta-lona2019375/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_batta-lona2019375/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
