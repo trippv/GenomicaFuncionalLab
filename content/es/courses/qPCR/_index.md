@@ -1,8 +1,8 @@
 ---
-date: 
-linkTitle: Anális de epxresión de genes mediante PCR en tiempo real 
+date:
+linkTitle: Anális de expresión de genes mediante PCR en tiempo real 
 summary: "Instructores: Claudia Ventura López, Edna Sánchez Castrejón y Pavel Galindo Torres"
-title: "Anális de epxresión de genes mediante PCR en tiempo real"
+title: "Anális de expresión de genes mediante PCR en tiempo real"
 type: course
 
 
