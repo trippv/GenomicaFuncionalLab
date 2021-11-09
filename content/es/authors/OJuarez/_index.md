@@ -26,9 +26,9 @@ interests:
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
 # Correo electronico:
-- icon: envelope
-  icon_pack: fas
-  link: 
+#-con: envelope
+#  icon_pack: fas
+#  link: 
   
 # google scholar
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack

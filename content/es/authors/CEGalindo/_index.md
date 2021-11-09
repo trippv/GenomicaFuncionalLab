@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Clara Elizabeth Galindo Sánchez
+titlr: Clara Elizabeth Galindo Sánchez
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,14 +10,14 @@ role: Investigador titular
 
 
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at endof posts)
 bio: 
 
 # Agregar intro
-intro: Estudio las adaptaciones fisiológicas y estrategias reproductivas ante el cambio climático, a nivel genómico y transcriptómico principalmente invertebrados marinos
+intro: Estudio las adaptaciones fisiológicas y estrategias reproductivas ante el cambio climático, a nivel genómico y transcriptómico principalmente en invertebrados marinos
 
 # Interests to show in About widget
-interests: 
+interests:
 - Transcriptómica
 - Ecofisiología
 - Control de la reproducción
@@ -25,7 +25,7 @@ interests:
 - Regulación de la expresión génica
 
 
-# redes sociales: solo se usara RG, ORCID, y correo
+# redes sociales: solo se usará RG, ORCID, y correo
 social:
 # Correo electronico:
 - icon: envelope

@@ -16,8 +16,6 @@ bio: something
 # Agregar intro
 intro: 
 
-
-
 # Interests to show in About widget
 interests: 
 - Bioinformática
@@ -28,9 +26,9 @@ interests:
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
 # Correo electronico:
-- icon: envelope
-  icon_pack: fas
-  link: 
+#- icon: envelope
+# icon_pack: fas
+# link: 
   
 # google scholar
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
