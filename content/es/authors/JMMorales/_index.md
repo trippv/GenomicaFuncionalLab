@@ -11,10 +11,10 @@ role: Estudiante de doctorado
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
+bio: Actualmente me encuentro estudiando la conectividad genética del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
 
 # Agregar intro
-intro: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
+intro: Estudio la conectividad genética del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
 
 # Interests to show in About widget
 interests: 
