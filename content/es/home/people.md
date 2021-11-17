@@ -23,6 +23,7 @@ content:
   - Visitantes
   - Posdoctorantes
   - Técnicos de Laboratorio
+  - Colaboradores
   
 design:
   show_interests: false
