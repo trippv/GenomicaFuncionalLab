@@ -8,7 +8,7 @@ hero_media:
 
 design:
   background:
-    image: sea_two.jpg 
+    image: home_picture.jpg
     image_darken: 0.6
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
@@ -25,7 +25,7 @@ advanced:
 
 <br>
 
-Nuestras investigaciones se enfocan a estudiar la diversidad marina y los efectos de las variaciones ambientales sobre los organismos mediante en el uso de herramientas genómicas y transcriptómicas
+Nuestras investigaciones se enfocan a estudiar la diversidad marina y los efectos de las variaciones ambientales sobre los organismos mediante en el uso de herramientas genómicas.
 
 
 <br>
