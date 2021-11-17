@@ -9534,10 +9534,10 @@ div.chart {
 .hero-caption {
   padding: 1em;
   font-size: 5.1rem;
-  line-height: 1;
+  line-height: 2;
   text-align: left; }
 
 .hero-img-logo img {
   position: absolute;
-  margin-left: 5rem;
+  margin-left: 55rem;
   margin-top: -50px; }

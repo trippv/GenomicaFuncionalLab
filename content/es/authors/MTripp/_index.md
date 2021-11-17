@@ -14,13 +14,14 @@ role: Posdoc
 bio: 
 
 # Agregar intro
-intro: Estudio los impactos de la temperatura en la fisiología de moluscos marinos a partir del análisis de expresión de genes
+intro: Estudio los impáctos de los cambios ambientales derivados de cambio climático y actividades antropogénicas en la fisiología y capacidad de respuesta de organismos marinos mediante indicadores sistémicos, celulares y moleculares
 
 # Interests to show in About widget
 interests: 
-- Transcriptómica
 - Ecofisiología
 - Bioinformática
+- RNAseq
+- omicas
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
@@ -30,8 +31,8 @@ social:
   link: mailto:miguel.tripp@gmail.com
   
 # google scholar
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   name: google scholar
   link: https://scholar.google.com.mx/citations?user=VaN33yMAAAAJ&hl=en
   

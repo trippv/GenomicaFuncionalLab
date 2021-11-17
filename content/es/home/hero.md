@@ -32,7 +32,6 @@ Nuestras investigaciones se enfocan a estudiar la diversidad marina y los efecto
 
 <br>
 
-<p style="font-size:8px;text-align:left">Photo: Crisitan Palmer.</p>
 
 <div class="hero-img-logo">
 <a href="https://cicese.com.mx/">

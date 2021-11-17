@@ -14,7 +14,7 @@ role: Técnico
 bio: 
 
 # Agregar intro
-intro: Estudio los impactos de la temperatura en la fisiología de moluscos marinos a partir del análisis de expresión de genes
+intro: 
 
 # Interests to show in About widget
 interests: 
