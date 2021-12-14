@@ -24,13 +24,20 @@ es:
         url: '#people'
         weight: 20
       - name: Proyectos
-        url: '#projects'
         weight: 30
+      - name: proyectos en Curso
+        url: '#projects'
+        parent: Proyectos
+        weight: 30
+      - name: Proyectos culminados
+        url: '#project2'
+        parent: Proyectos
+        weight: 40
       - name: Publicaciones
         url: publication/
-        weight: 40
+        weight: 50
       - name: Cursos
         url: courses/
-        weight: 50
+        weight: 60
 
 
