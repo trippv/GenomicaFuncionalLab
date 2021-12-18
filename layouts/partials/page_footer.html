@@ -1,0 +1,12 @@
+<h2> Colaboradores </h2>
+
+{{ partial "page_author" . }}
+
+
+{{ if site.Params.section_pager }}
+<div class="article-widget">
+  {{ partial "section_pager" . }}
+</div>
+{{ end }}
+
+{{ partial "page_related" . }}

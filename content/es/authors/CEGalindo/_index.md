@@ -1,6 +1,6 @@
 ---
 # Display name
-titlr: Clara Elizabeth Galindo Sánchez
+title: Clara Elizabeth Galindo Sánchez
 
 # Is this the primary user of the site?
 superuser: false
