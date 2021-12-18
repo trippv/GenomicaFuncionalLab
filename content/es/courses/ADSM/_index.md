@@ -1,9 +1,16 @@
 ---
 date: 
 linkTitle: Análisis de Datos de Secuencación Masiva 
-summary: "Instructores: Miguel Tripp Valdez, Pavel Galindo Torres y Miguel Martinez Mercado"
+summary: 
 title: "Análisis de Datos de Secuencación Masiva"
 type: course
+
+# Display authors
+
+hideAuthor: false
+
+authors: ["MTripp"]
+
 ---
 
 
@@ -20,3 +27,4 @@ type: course
   
   
   visita el [plan de estudios](https://posgrados.cicese.mx/posgrado/plan_de_estudios/maestria)
+

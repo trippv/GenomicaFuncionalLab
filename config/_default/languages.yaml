@@ -37,7 +37,7 @@ es:
         url: publication/
         weight: 50
       - name: Cursos
-        url: courses/
+        url: cursos/
         weight: 60
 
 
