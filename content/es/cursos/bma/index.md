@@ -1,7 +1,7 @@
 ---
-title: Análisis de expresión de genes mediante PCR en tiempo real 
+title: Biología molecular avanzada  
 
-authors: ["CVentura", "ESanchez", "PGalindo"]
+authors: ["CVentura", "CEGalindo"]
 # Subtitle, solo se despliega en la pagina del proyecto
 subtitle: 
 

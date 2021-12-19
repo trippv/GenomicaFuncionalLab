@@ -23,6 +23,7 @@
     <div class="media-body">
       <h5 class="card-title">{{if $profile_url}}<a href="{{$profile_url}}">{{end}}{{$author_page.Title}}{{if $profile_url}}</a>{{end}}</h5>
       {{ with $author_page.Params.role }}<h6 class="card-subtitle">{{. | markdownify | emojify}}</h6>{{end}}
+      {{ with $author_page.Params.ads }}<h6 class="card-subtitle">{{. | markdownify | emojify}}</h6>{{end}}
       {{ with $author_page.Params.bio }}<p class="card-text">{{. | markdownify | emojify}}</p>{{end}}
 
       {{/* Comment: redes sociales como comentario ya que estos se pueden acceder en la pagina personal //

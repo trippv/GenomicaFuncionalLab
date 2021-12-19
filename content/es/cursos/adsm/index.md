@@ -1,7 +1,7 @@
 ---
-title: Análisis de expresión de genes mediante PCR en tiempo real 
+title: Análisis de Datos de Secuenciación Másiva
 
-authors: ["CVentura", "ESanchez", "PGalindo"]
+authors: ["MTripp", "MMartinez", "PGalindo"]
 # Subtitle, solo se despliega en la pagina del proyecto
 subtitle: 
 

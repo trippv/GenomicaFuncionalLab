@@ -25,11 +25,11 @@ es:
         weight: 20
       - name: Proyectos
         weight: 30
-      - name: proyectos en Curso
+      - name: Proyectos en Curso
         url: '#projects'
         parent: Proyectos
         weight: 30
-      - name: Proyectos culminados
+      - name: Proyectos Culminados
         url: '#project2'
         parent: Proyectos
         weight: 40
