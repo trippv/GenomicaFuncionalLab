@@ -1,50 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Laboratorio de Genómica Funcional</title>
-    <link>https://academic-demo.netlify.app/project/</link>
-      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/project/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
       <title>Projects</title>
-      <link>https://academic-demo.netlify.app/project/</link>
+      <link>https://genomicafuncionallab.netlify.app/project/</link>
     </image>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://academic-demo.netlify.app/project/internal-project/</link>
+      <title>Impacto de microplasticos en el ostión</title>
+      <link>https://genomicafuncionallab.netlify.app/project/microplas/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://genomicafuncionallab.netlify.app/project/microplas/</guid>
+      <description>&lt;p&gt;La contaminación por microplásticos constituye un problema creciente en la región costera pero el impacto de la ingesta y acumulación de microplásticos en la fisiología de los organismos marinos aún permanece poco estudiada.&lt;/p&gt;
+&lt;p&gt;Este proyecto utiliza una aproximación transcriptómica para evaluar los perfiles de expresión de genes en el ostión &lt;em&gt;Crassostrea gigas&lt;/em&gt; comparando un sitio con mayor presencia de microplasticos con un sitio con menor concentración. Nuestro principal interés es estudiar los potenciales impactos en la reproducción, respuesta inmune y capacidad de detoxificación.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Diversidad de ictioplacton y zooplancton en el Golfo de México. Una aproximación metagenética y taxonómica</title>
-      <link>https://academic-demo.netlify.app/project/metabar/metabar_index/</link>
+      <link>https://genomicafuncionallab.netlify.app/project/metabar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/metabar/metabar_index/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://genomicafuncionallab.netlify.app/project/metabar/</guid>
+      <description>&lt;p&gt;Utilizamos secuenciación del gen 16s ribosomal para describir la diversidad zooplancton en el Golfo de México&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Evaluación del efecto de la temperatura sobre los mecanismos moleculares y fisiológicos que regulan la reproducción de Octopus maya.</title>
-      <link>https://academic-demo.netlify.app/project/omaya/</link>
+      <title>Efecto de la acidificación del océano sobre los mecanismos de regulación genética por microRNAs</title>
+      <link>https://genomicafuncionallab.netlify.app/project/microrna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/omaya/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/project/microrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluación del efecto de la temperatura sobre los mecanismos moleculares y fisiológicos que regulan la reproducción de Octopus maya.</title>
+      <link>https://genomicafuncionallab.netlify.app/project/omaya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/project/omaya/</guid>
       <description>&lt;p&gt;El pulpo maya &lt;em&gt;Octopus maya&lt;/em&gt; es una especie de importancia economica y con potencial acuicula. Al ser un organismo ectotérmico, la temperatura juega un papel fundamental en su éxito reproductivo. Por lo tanto, este proyecto tiene como meta comprender el papel que juegan las diversas glándulas en la regulación del éxito reproductivo y de que manera la temperatura afecta la regulación de las mismas.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Impactos biológicos de la variabilidad y extremos de temperatura en ectotermos marinos bentónicos. aptitud biológica, potencial de adaptación y plasticidad fenotípica</title>
+      <link>https://genomicafuncionallab.netlify.app/project/nsubno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/project/nsubno/</guid>
+      <description>&lt;p&gt;Este proyecto plantea un estudio intensivo, multi escala y de respuestas múltiples de los impactos de la variabilidad de la temperatura en la almeja mano de león, un ectotermo marino para el que contamos con información fisiológica y genética, para comprender cómo la variabilidad moldea y limita la capacidad de adaptación de las poblaciones y la plasticidad fenotípica y aptitud de los individuos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Project</title>
+      <link>https://genomicafuncionallab.netlify.app/project/new-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/project/new-project/</guid>
+      <description></description>
     </item>
     
   </channel>

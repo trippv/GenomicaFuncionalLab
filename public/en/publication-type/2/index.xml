@@ -1,34 +1,303 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Laboratorio de Genómica Funcional</title>
-    <link>https://academic-demo.netlify.app/en/publication-type/2/</link>
-      <atom:link href="https://academic-demo.netlify.app/en/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/en/publication-type/2/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/en/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
       <title>2</title>
-      <link>https://academic-demo.netlify.app/en/publication-type/2/</link>
+      <link>https://genomicafuncionallab.netlify.app/en/publication-type/2/</link>
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://academic-demo.netlify.app/en/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/en/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Acidification stress effect on umbonate veliger larval development in Panopea globosa</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_lopez-landavery2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_lopez-landavery2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth Performance and Transcriptomic Response of Warm-Acclimated Hybrid Abalone Haliotis rufescens (♀) × H. corrugata (♂)</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_tripp-valdez202162/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_tripp-valdez202162/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship between paralytic shellfish toxin content and sxtA gene copy number in different growth phases of Gymnodinium catenatum (Dinophyceae)</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic assessment of dietary fishmeal partial replacement by soybean meal and prebiotics inclusion in the liver of juvenile Pacific yellowtail (Seriola lalandi)</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_juarez2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_juarez2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why high temperatures limit reproduction in cephalopods? The case of Octopus maya</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_meza-buendia2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_meza-buendia2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression plasticity in Pocillopora corals from 2 locations on the carrizales reef, pacific coast of Mexico [Plasticidad de la expresión génica en corales Pocillopora de 2 localidades del arrecife carrizales, costa Mexicana del pacífico]</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zooplankton summer composition in the southern Gulf of Mexico with emphasis on salp and hyperiid amphipod assemblages</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2020-01-01_hereu2020665/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2020-01-01_hereu2020665/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aspergillus loretoensis, a single isolate from marine sediment of Loreto Bay, Baja California Sur, México resulting as a new obligate halophile species</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction to: Aspergillus loretoensis, a single isolate from marine sediment of Loreto Bay, Baja California Sur, México resulting as a new obligate halophile species (Extremophiles, (2019), 23, 5, (557-568), 10.1007/s00792-019-01107-6)</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA barcoding and morphological taxonomy: identification of lanternfish (Myctophidae) larvae in the Gulf of Mexico</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_batta-lona2019375/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_batta-lona2019375/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Octopus maya white body show sex-specific transcriptomic profiles during the reproductive phase, with high differentiation in signaling pathways</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_juarez2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_juarez2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproductive performance of Octopus maya males conditioned by thermal stress</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-galindo2019437/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-galindo2019437/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic analysis reveals insights on male infertility in octopus maya under chronic thermal stress</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-galindo2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-galindo2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic response and hydrocarbon accumulation in the eastern oyster (Crassostrea virginica) exposed to crude oil</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-landavery2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-landavery2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic response of the Crassostrea virginica gonad after exposure to a water-accommodation fraction of hydrocarbons and the potential implications in reproduction</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_tapia-morales20199/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_tapia-morales20199/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of the toxigenic dinoflagellate Alexandrium ostenfeldii with spirolide accumulation in cultured mussels (Mytilus galloprovincialis) from Northwest Mexico</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_paredes-banda2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_paredes-banda2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic monitoring of the Mexican four-eyed octopus Octopus maya population: New insights and perspectives for the fishery management</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_juarez2018109/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_juarez2018109/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of the Gene sxtA (Domains sxtA1 and sxtA4) in Mexican strains of Gymnodinium catenatum (Dinophyceae) and their evolution</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic and metabolic response to chronic and acute thermal exposure of juvenile geoduck clams Panopea globosa</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_juarez20181/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_juarez20181/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preferred temperature, critical thermal maximum, and metabolic response of the black sea urchin arbacia stellata (blainville, 1825; Gmelin, 1791)</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_diaz2017219/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_diaz2017219/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal sensitivity of O. maya embryos as a tool for monitoring the effects of environmental warming in the Southern of Gulf of Mexico</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic information from Pacific white shrimp (Litopenaeus vannamei) ovary and eyestalk, and expression patterns for genes putatively involved in the reproductive process</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of maternal temperature stress before spawning over the energetic balance of Octopus maya juveniles exposed to a gradual temperature change</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_juarez201639/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_juarez201639/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global transcriptional analysis suggests Lasiodiplodia theobromae pathogenicity factors involved in modulation of grapevine defensive response</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physiological responses of the red rocky crab Cancer antennarius exposed to different concentrations of copper sulfate [Respuestas fisiológicas en el cangrejo de roca Cancer antennarius expuesto a diferentes concentraciones de sulfato de cobre]</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_jacobo2016327/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_jacobo2016327/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative real-time PCR normalization for gene expression studies in the plant pathogenic fungi Lasiodiplodia theobromae</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral thermoregulation and critical thermal limits of giant keyhole limpet Megathura crenulata (Sowerby 1825) (Mollusca; Vetigastropoda)</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_diaz2015133/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_diaz2015133/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is temperature conditioning Octopus maya fitness?</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_juarez201571/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_juarez201571/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of thermal acclimation on the behavior, thermal tolerance, and respiratory metabolism in a crab inhabiting a wide range of thermal habitats (Cancer antennarius Stimpson, 1856, the red shore crab)</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_padilla-ramirez201589/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_padilla-ramirez201589/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preferred temperature, thermal tolerance, and metabolic response of tegula regina (Stearns, 1892)</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2014-01-01_salas2014239/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2014-01-01_salas2014239/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex-specific regulation of AMP-activated protein kinase (AMPK) in the pacific oyster crassostrea gigas</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2013-01-01_guevelou2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2013-01-01_guevelou2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allotriploid genotypic assignment in abalone larvae by detection of microsatellite-recombinant genotypes</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population genetics of the eastern oyster crassostrea virginica (gmelin, 1791) in the gulf of mexico</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2009-01-01_varney2009855/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2009-01-01_varney2009855/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of genetic diversity of the eastern oyster Crassostrea virginica in Veracruz, Mexico using microsatellite markers</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isolation of microsatellite loci in green abalone (Haliotis fulgens) and cross-species amplification in two other North American red (Haliotis rufescens) and pink (Haliotis corrugata) abalones</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_cruz2005857/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_cruz2005857/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New polymorphic microsatellite markers for California sea lions (Zalophus californianus)</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/</guid>
+      <description></description>
     </item>
     
   </channel>

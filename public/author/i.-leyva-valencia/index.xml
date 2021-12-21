@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I. Leyva-Valencia | Laboratorio de Genómica Funcional</title>
-    <link>https://academic-demo.netlify.app/author/i.-leyva-valencia/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/i.-leyva-valencia/index.xml" rel="self" type="application/rss+xml" />
+    <title>I. Leyva-Valencia | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/author/i.-leyva-valencia/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/author/i.-leyva-valencia/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Leyva-Valencia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
       <title>I. Leyva-Valencia</title>
-      <link>https://academic-demo.netlify.app/author/i.-leyva-valencia/</link>
+      <link>https://genomicafuncionallab.netlify.app/author/i.-leyva-valencia/</link>
     </image>
     
     <item>
       <title>Relationship between paralytic shellfish toxin content and sxtA gene copy number in different growth phases of Gymnodinium catenatum (Dinophyceae)</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2021-01-01_mendoza-flores202168/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2021-01-01_mendoza-flores202168/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2021-01-01_mendoza-flores202168/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2021-01-01_mendoza-flores202168/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of the Gene sxtA (Domains sxtA1 and sxtA4) in Mexican strains of Gymnodinium catenatum (Dinophyceae) and their evolution</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2018-01-01_mendoza-flores2018/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2018-01-01_mendoza-flores2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2018-01-01_mendoza-flores2018/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2018-01-01_mendoza-flores2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptomic and metabolic response to chronic and acute thermal exposure of juvenile geoduck clams Panopea globosa</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2018-01-01_juarez20181/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2018-01-01_juarez20181/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2018-01-01_juarez20181/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2018-01-01_juarez20181/</guid>
       <description></description>
     </item>
     

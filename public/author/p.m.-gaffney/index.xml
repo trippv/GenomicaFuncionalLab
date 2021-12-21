@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>P.M. Gaffney | Laboratorio de Genómica Funcional</title>
-    <link>https://academic-demo.netlify.app/author/p.m.-gaffney/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/p.m.-gaffney/index.xml" rel="self" type="application/rss+xml" />
+    <title>P.M. Gaffney | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/author/p.m.-gaffney/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/author/p.m.-gaffney/index.xml" rel="self" type="application/rss+xml" />
     <description>P.M. Gaffney</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
       <title>P.M. Gaffney</title>
-      <link>https://academic-demo.netlify.app/author/p.m.-gaffney/</link>
+      <link>https://genomicafuncionallab.netlify.app/author/p.m.-gaffney/</link>
     </image>
     
     <item>
       <title>Population genetics of the eastern oyster crassostrea virginica (gmelin, 1791) in the gulf of mexico</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2009-01-01_varney2009855/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2009-01-01_varney2009855/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2009-01-01_varney2009855/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2009-01-01_varney2009855/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment of genetic diversity of the eastern oyster Crassostrea virginica in Veracruz, Mexico using microsatellite markers</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</guid>
       <description></description>
     </item>
     

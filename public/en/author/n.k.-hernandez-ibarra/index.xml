@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N.K. Hernandez-Ibarra | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/en/author/n.k.-hernandez-ibarra/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/n.k.-hernandez-ibarra/index.xml" rel="self" type="application/rss+xml" />
+    <description>N.K. Hernandez-Ibarra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
+      <title>N.K. Hernandez-Ibarra</title>
+      <link>https://genomicafuncionallab.netlify.app/en/author/n.k.-hernandez-ibarra/</link>
+    </image>
+    
+    <item>
+      <title>Allotriploid genotypic assignment in abalone larvae by detection of microsatellite-recombinant genotypes</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

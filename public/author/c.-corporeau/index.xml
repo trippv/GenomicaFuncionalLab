@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C. Corporeau | Laboratorio de Genómica Funcional</title>
-    <link>https://academic-demo.netlify.app/author/c.-corporeau/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/c.-corporeau/index.xml" rel="self" type="application/rss+xml" />
+    <title>C. Corporeau | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/author/c.-corporeau/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/author/c.-corporeau/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Corporeau</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
       <title>C. Corporeau</title>
-      <link>https://academic-demo.netlify.app/author/c.-corporeau/</link>
+      <link>https://genomicafuncionallab.netlify.app/author/c.-corporeau/</link>
     </image>
     
     <item>
       <title>Sex-specific regulation of AMP-activated protein kinase (AMPK) in the pacific oyster crassostrea gigas</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2013-01-01_guevelou2013/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2013-01-01_guevelou2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2013-01-01_guevelou2013/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2013-01-01_guevelou2013/</guid>
       <description></description>
     </item>
     

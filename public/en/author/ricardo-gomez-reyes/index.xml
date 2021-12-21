@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricardo Goméz Reyes | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/en/author/ricardo-gomez-reyes/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/ricardo-gomez-reyes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ricardo Goméz Reyes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://genomicafuncionallab.netlify.app/en/author/ricardo-gomez-reyes/avatar_hu9d19a7dd7302a82e654e7da59fe71836_28103_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Ricardo Goméz Reyes</title>
+      <link>https://genomicafuncionallab.netlify.app/en/author/ricardo-gomez-reyes/</link>
+    </image>
+    
+  </channel>
+</rss>
