@@ -39,5 +39,8 @@ es:
       - name: Cursos
         url: cursos/
         weight: 60
+      - name: Blog
+        url: post/
+        weight: 70
 
 

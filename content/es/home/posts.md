@@ -4,10 +4,10 @@
 widget: pages
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 60
 
 title: Blog
 subtitle:

@@ -2,18 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\config",
-    "\\config\\_default",
-    "\\content",
-    "\\content\\es",
-    "\\content\\es\\courses",
-    "\\content\\es\\cursos",
-    "\\content\\es\\cursos\\seqs",
-    "\\content\\es\\project\\metabar",
     "\\themes",
     "\\themes\\github.com",
     "\\themes\\github.com\\wowchemy",
-    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules"
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules",
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules\\wowchemy",
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules\\wowchemy\\v5",
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules\\wowchemy\\v5\\layouts",
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules\\wowchemy\\v5\\layouts\\partials"
   ],
-  "SelectedNode": "\\content\\es\\cursos\\seqs\\_index.md",
+  "SelectedNode": "\\config.yaml",
   "PreviewInSolutionExplorer": true
 }

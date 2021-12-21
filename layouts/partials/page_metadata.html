@@ -8,13 +8,13 @@
      {{ if $page.Params.authors }}
   {{ $authorLen := len $page.Params.authors }}
   {{ if gt $authorLen 0 }}
-  &nbsp;|&nbsp;<i class="fas fa-user"></i>
+
 <div>
     {{ partial "page_metadata_authors" $page }}
   </div>
     {{end}}
     {{ else }}
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;{{ .Site.Author.name | safeHTML }}
+    {{ .Site.Author.name | safeHTML }}
     {{ end }}
   {{ end }}
 
@@ -88,3 +88,5 @@
   {{ end }}
 
 </div>
+
+
