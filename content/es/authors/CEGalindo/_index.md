@@ -8,6 +8,10 @@ superuser: false
 # Role/position/tagline
 role: Investigador titular
 
+# Adscription
+ads: CICESE; Ciencias de la Vida
+
+
 
 
 # Short bio (displayed in user profile at endof posts)

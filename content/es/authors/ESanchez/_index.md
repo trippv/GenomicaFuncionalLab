@@ -8,6 +8,8 @@ superuser: false
 # Role/position/tagline
 role: Técnico
 
+# Adscription
+ads: CICESE; Ciencias de la Vida
 
 
 # Short bio (displayed in user profile at end of posts)

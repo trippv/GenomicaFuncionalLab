@@ -6,8 +6,11 @@ title: Claudia Ventura López
 superuser: false
 
 # Role/position/tagline
-role: Posdoc Dpt. no se cual
+role: Posdoc
 
+
+# Adscription
+ads: CICESE; Ciencias de la Vida
 
 
 # Short bio (displayed in user profile at end of posts)

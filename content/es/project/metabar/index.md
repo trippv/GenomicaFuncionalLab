@@ -1,7 +1,7 @@
 ---
 title: Diversidad de ictioplacton y zooplancton en el Golfo de México. Una aproximación metagenética y taxonómica
 
-authors: ["MMartinez", "CEGalindo", "RGomez", "OJuarez"]
+authors: ["MMartinez", "CEGalindo", "RGomez"]
 # Subtitle, solo se despliega en la pagina del proyecto
 subtitle: Fondo Sectorial CONACYT-Secretaria de Energía-Hidrocarburos 
 

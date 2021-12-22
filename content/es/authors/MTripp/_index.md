@@ -9,7 +9,7 @@ superuser: false
 role: Posdoc
 
 # Adscription
-ads: Ciencias de la Vida; CICESE
+ads: CICESE; Ciencias de la Vida
 
 # Short bio (displayed in user profile at end of posts)
 bio:

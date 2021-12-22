@@ -10,6 +10,12 @@ summary: Proyecto en colaboración con el Instituto de Investigaciones Oceanoló
 
 title: Impacto de microplasticos en el ostión 
 
+# authors
+authors: ["CVentura","ESanche", "MTripp", "CEGalindo"]
+
+# hide authors list from title
+hideAuthor: true
+
 # tags
 tags:
   - curso

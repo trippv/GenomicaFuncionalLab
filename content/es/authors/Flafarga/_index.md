@@ -6,9 +6,10 @@ title: Fabiola Lafarga De La Cruz
 superuser: false
 
 # Role/position/tagline
-role: Investigador titular. Departamento de Acuicultura. CICESE
+role: Investigador titular. 
 
-
+# Adscription
+ads: CICESE; Acuicultura
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
