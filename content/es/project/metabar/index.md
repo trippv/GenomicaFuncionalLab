@@ -13,6 +13,10 @@ hideAuthor: true
 #Show date
 show_date: false
 
+# tags
+tags:
+  - concluido
+
 external_link: ""
 image:
   caption: 

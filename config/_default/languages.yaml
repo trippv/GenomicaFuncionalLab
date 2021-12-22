@@ -24,14 +24,7 @@ es:
         url: '#people'
         weight: 20
       - name: Proyectos
-        weight: 30
-      - name: Proyectos en Curso
         url: '#projects'
-        parent: Proyectos
-        weight: 30
-      - name: Proyectos Culminados
-        url: '#project2'
-        parent: Proyectos
         weight: 40
       - name: Publicaciones
         url: publication/
