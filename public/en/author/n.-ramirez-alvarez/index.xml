@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Ramirez-Alvarez | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/en/author/n.-ramirez-alvarez/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/n.-ramirez-alvarez/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Ramirez-Alvarez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
+      <title>N. Ramirez-Alvarez</title>
+      <link>https://genomicafuncionallab.netlify.app/en/author/n.-ramirez-alvarez/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptomic response and hydrocarbon accumulation in the eastern oyster (Crassostrea virginica) exposed to crude oil</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-landavery2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-landavery2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic response of the Crassostrea virginica gonad after exposure to a water-accommodation fraction of hydrocarbons and the potential implications in reproduction</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_tapia-morales20199/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_tapia-morales20199/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

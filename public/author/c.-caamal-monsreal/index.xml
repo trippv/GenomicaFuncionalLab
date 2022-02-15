@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C. Caamal-Monsreal | Laboratorio de Genómica Funcional</title>
-    <link>https://academic-demo.netlify.app/author/c.-caamal-monsreal/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/c.-caamal-monsreal/index.xml" rel="self" type="application/rss+xml" />
+    <title>C. Caamal-Monsreal | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/author/c.-caamal-monsreal/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/author/c.-caamal-monsreal/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Caamal-Monsreal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
       <title>C. Caamal-Monsreal</title>
-      <link>https://academic-demo.netlify.app/author/c.-caamal-monsreal/</link>
+      <link>https://genomicafuncionallab.netlify.app/author/c.-caamal-monsreal/</link>
     </image>
     
     <item>
       <title>Why high temperatures limit reproduction in cephalopods? The case of Octopus maya</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2021-01-01_meza-buendia2021/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2021-01-01_meza-buendia2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2021-01-01_meza-buendia2021/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2021-01-01_meza-buendia2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproductive performance of Octopus maya males conditioned by thermal stress</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_lopez-galindo2019437/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_lopez-galindo2019437/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2019-01-01_lopez-galindo2019437/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_lopez-galindo2019437/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermal sensitivity of O. maya embryos as a tool for monitoring the effects of environmental warming in the Southern of Gulf of Mexico</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of maternal temperature stress before spawning over the energetic balance of Octopus maya juveniles exposed to a gradual temperature change</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2016-01-01_juarez201639/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2016-01-01_juarez201639/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2016-01-01_juarez201639/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2016-01-01_juarez201639/</guid>
       <description></description>
     </item>
     

@@ -1,12 +1,16 @@
 ---
 # Display name
-titlr: Clara Elizabeth Galindo Sánchez
+title: Clara Elizabeth Galindo Sánchez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
 role: Investigador titular
+
+# Adscription
+ads: CICESE; Ciencias de la Vida
+
 
 
 

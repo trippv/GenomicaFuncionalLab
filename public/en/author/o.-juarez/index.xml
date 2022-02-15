@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Juarez | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/en/author/o.-juarez/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/o.-juarez/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Juarez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
+      <title>O. Juarez</title>
+      <link>https://genomicafuncionallab.netlify.app/en/author/o.-juarez/</link>
+    </image>
+    
+    <item>
+      <title>Thermal sensitivity of O. maya embryos as a tool for monitoring the effects of environmental warming in the Southern of Gulf of Mexico</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

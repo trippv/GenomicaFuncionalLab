@@ -8,10 +8,11 @@ superuser: false
 # Role/position/tagline
 role: Posdoc
 
-
+# Adscription
+ads: CICESE; Ciencias de la Vida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # Agregar intro
 intro: Estudio los impáctos de los cambios ambientales derivados de cambio climático y actividades antropogénicas en la fisiología y capacidad de respuesta de organismos marinos mediante indicadores sistémicos, celulares y moleculares

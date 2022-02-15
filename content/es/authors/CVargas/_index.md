@@ -9,6 +9,10 @@ superuser: false
 role: Estudiante de doctorado
 
 
+# Adscription
+ads: CICESE; Ciencias de la Vida
+
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Estoy estudiando la conectividad genética del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq

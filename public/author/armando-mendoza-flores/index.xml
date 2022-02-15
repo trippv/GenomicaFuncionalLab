@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Armando Mendoza Flores | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/author/armando-mendoza-flores/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/author/armando-mendoza-flores/index.xml" rel="self" type="application/rss+xml" />
+    <description>Armando Mendoza Flores</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
+    <image>
+      <url>https://genomicafuncionallab.netlify.app/author/armando-mendoza-flores/avatar_hu401691171ff48d7d92f2a6fe4959734e_39606_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Armando Mendoza Flores</title>
+      <link>https://genomicafuncionallab.netlify.app/author/armando-mendoza-flores/</link>
+    </image>
+    
+  </channel>
+</rss>

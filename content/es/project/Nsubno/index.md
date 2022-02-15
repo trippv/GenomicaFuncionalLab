@@ -10,6 +10,10 @@ summary: Proyecto CONACYT Ciencia de Frontera CIBNOR CICESE
 
 title: Impactos biológicos de la variabilidad y extremos de temperatura en ectotermos marinos bentónicos. aptitud biológica, potencial de adaptación y plasticidad fenotípica
 
+# tags
+tags:
+  - curso
+
 url_code: ""
 url_pdf: ""
 url_slides: ""

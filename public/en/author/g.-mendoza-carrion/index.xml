@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Mendoza-Carrion | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/en/author/g.-mendoza-carrion/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/g.-mendoza-carrion/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Mendoza-Carrion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
+      <title>G. Mendoza-Carrion</title>
+      <link>https://genomicafuncionallab.netlify.app/en/author/g.-mendoza-carrion/</link>
+    </image>
+    
+    <item>
+      <title>Isolation of microsatellite loci in green abalone (Haliotis fulgens) and cross-species amplification in two other North American red (Haliotis rufescens) and pink (Haliotis corrugata) abalones</title>
+      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_cruz2005857/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_cruz2005857/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

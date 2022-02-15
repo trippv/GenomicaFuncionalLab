@@ -4,8 +4,13 @@ title: Armando Mendoza Flores
 # Is this the primary user of the site?
 superuser: false
 
+
 # Role/position/tagline
-role: Posdoc Dpto. Acuicultura
+role: Posdoc
+
+# Adscription
+ads: CICESE; Acuicultura
+
 
 
 

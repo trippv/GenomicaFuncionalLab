@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\config",
+    "\\themes",
+    "\\themes\\github.com",
+    "\\themes\\github.com\\wowchemy",
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules",
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules\\wowchemy",
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules\\wowchemy\\v5",
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules\\wowchemy\\v5\\layouts",
+    "\\themes\\github.com\\wowchemy\\wowchemy-hugo-modules\\wowchemy\\v5\\layouts\\partials"
   ],
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\config.yaml",
+  "PreviewInSolutionExplorer": true
 }

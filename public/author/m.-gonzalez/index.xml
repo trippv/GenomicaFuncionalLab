@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Gonzalez | Laboratorio de Genómica Funcional</title>
-    <link>https://academic-demo.netlify.app/author/m.-gonzalez/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/m.-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <title>M. Gonzalez | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/author/m.-gonzalez/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/author/m.-gonzalez/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Gonzalez</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
       <title>M. Gonzalez</title>
-      <link>https://academic-demo.netlify.app/author/m.-gonzalez/</link>
+      <link>https://genomicafuncionallab.netlify.app/author/m.-gonzalez/</link>
     </image>
     
     <item>
       <title>Preferred temperature, critical thermal maximum, and metabolic response of the black sea urchin arbacia stellata (blainville, 1825; Gmelin, 1791)</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2017-01-01_diaz2017219/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2017-01-01_diaz2017219/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2017-01-01_diaz2017219/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2017-01-01_diaz2017219/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preferred temperature, thermal tolerance, and metabolic response of tegula regina (Stearns, 1892)</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2014-01-01_salas2014239/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2014-01-01_salas2014239/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2014-01-01_salas2014239/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2014-01-01_salas2014239/</guid>
       <description></description>
     </item>
     

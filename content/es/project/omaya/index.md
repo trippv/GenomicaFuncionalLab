@@ -6,6 +6,10 @@ summary: Convocatoria Ciencia Básica SEP-CONACYT
 
 date: ""
 
+# tags
+tags:
+  - concluido
+
 #Show date
 show_date: false
 

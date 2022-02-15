@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A.M. Sanchez-Garcia | Laboratorio de Genómica Funcional</title>
-    <link>https://academic-demo.netlify.app/author/a.m.-sanchez-garcia/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/a.m.-sanchez-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <title>A.M. Sanchez-Garcia | Genómica Funcional</title>
+    <link>https://genomicafuncionallab.netlify.app/author/a.m.-sanchez-garcia/</link>
+      <atom:link href="https://genomicafuncionallab.netlify.app/author/a.m.-sanchez-garcia/index.xml" rel="self" type="application/rss+xml" />
     <description>A.M. Sanchez-Garcia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hu606ccf9f8b50e283c2c7aee6482194bf_147547_512x512_fill_lanczos_center_3.png</url>
+      <url>https://genomicafuncionallab.netlify.app/media/logo_hu606ccf9f8b50e283c2c7aee6482194bf_147547_300x300_fit_lanczos_3.png</url>
       <title>A.M. Sanchez-Garcia</title>
-      <link>https://academic-demo.netlify.app/author/a.m.-sanchez-garcia/</link>
+      <link>https://genomicafuncionallab.netlify.app/author/a.m.-sanchez-garcia/</link>
     </image>
     
     <item>
       <title>Is temperature conditioning Octopus maya fitness?</title>
-      <link>https://academic-demo.netlify.app/publication/my-md-folder/2015-01-01_juarez201571/</link>
+      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2015-01-01_juarez201571/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/my-md-folder/2015-01-01_juarez201571/</guid>
+      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2015-01-01_juarez201571/</guid>
       <description></description>
     </item>
     

@@ -9,6 +9,8 @@ superuser: false
 role: Estudiante de maestría
 
 
+# Adscription
+ads: CICESE; Ciencias de la Vida
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
