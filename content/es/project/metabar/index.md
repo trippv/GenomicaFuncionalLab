@@ -19,7 +19,8 @@ tags:
 
 external_link: ""
 image:
-  caption: 
+  caption: Photo by <a href="https://unsplash.com/@atlasior?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Krystian Tambur</a> on <a href="https://unsplash.com/s/photos/sea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   focal_point: Smart
 # links:
 # - icon: twitter
