@@ -3,7 +3,9 @@ widget: hero
 headless: true
 weight: 10
 title: Bienvenidos al Laboratorio de Genómica Funcional
-hero_media: 
+
+# la ubicación del logo esta en /assets/media/icons/logo.png
+#hero_media: logo.png
 
 
 design:
@@ -14,7 +16,7 @@ design:
     gradient_start: '#004ba0'
     text_color_light: true
     # Choose how many columns the section has. Valid values: 1 or 2.
-    columns: '1'
+    columns: '2'
     
 
 advanced:
