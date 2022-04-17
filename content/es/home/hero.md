@@ -5,7 +5,8 @@ weight: 10
 title: Bienvenidos al Laboratorio de Genómica Funcional
 
 # la ubicación del logo esta en /assets/media/icons/logo.png
-#hero_media: logo.png
+#hero_media:
+
 
 
 design:
@@ -35,9 +36,4 @@ Nuestras investigaciones se enfocan a estudiar la diversidad marina y los efecto
 <br>
 
 
-<div class="hero-img-logo">
-<a href="https://cicese.com.mx/">
-         <img alt="Qries" src="https://cicese.edu.mx/cicese2/assets/img/cicese.png"
-         width=150" height="70">
-         </a>
-  </div>
+
