@@ -11,7 +11,7 @@ role: Posdoc
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: something
+bio: CICESE
 
 # Agregar intro
 intro: Me interesa descubrir genes y estudiar su función empleando biotecnologías que caen dentro de la genómica funcional, como lo son el ARNi y las variantes de CRISPR/Cas. Esto con la finalidad de aplicar este conocimiento en programas de mejoramiento genético en especies de interés para la acuicultura.     

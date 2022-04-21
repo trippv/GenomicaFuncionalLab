@@ -17,7 +17,7 @@ show_date: false
 tags:
   - concluido
 
-external_link: ""
+external_link: "https://cigom.org/"
 image:
   caption: Photo by <a href="https://unsplash.com/@atlasior?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Krystian Tambur</a> on <a href="https://unsplash.com/s/photos/sea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -41,6 +41,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+
 ---
 
-Utilizamos secuenciación del gen 16s ribosomal para describir la diversidad zooplancton en el Golfo de México
+El subproyecto “Diversidad de Ictioplancton y Zooplancton en el Golfo de México” formo parte de la Línea 2 del [CIGOM](https://cigom.org/). En este subproyecto se utilizaron herramientas moleculares de alto potencial (secuenciación masiva de genes marcadores) para establecer una línea base de la diversidad de organismos en el Golfo de México.

@@ -11,7 +11,7 @@ role: Posdoc
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: something
+bio: CICESE
 
 # Agregar intro
 intro: 

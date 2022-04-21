@@ -5,7 +5,7 @@ weight: 10
 title: Bienvenidos al Laboratorio de Genómica Funcional
 
 # la ubicación del logo esta en /assets/media/icons/logo.png
-#hero_media:
+#hero_media: logo.png
 
 
 
@@ -17,7 +17,7 @@ design:
     gradient_start: '#004ba0'
     text_color_light: true
     # Choose how many columns the section has. Valid values: 1 or 2.
-    columns: '2'
+    columns: '1'
     
 
 advanced:
@@ -34,6 +34,5 @@ Nuestras investigaciones se enfocan a estudiar la diversidad marina y los efecto
 <br>
 
 <br>
-
 
 

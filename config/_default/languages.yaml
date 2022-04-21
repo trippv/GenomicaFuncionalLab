@@ -35,5 +35,8 @@ es:
       - name: Blog
         url: post/
         weight: 70
+      - name: Ir al sitio de CICESE
+        url: https://www.cicese.edu.mx/
+        weigth: 80
 
 
