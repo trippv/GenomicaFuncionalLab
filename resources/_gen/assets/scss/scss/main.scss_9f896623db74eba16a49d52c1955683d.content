@@ -9527,9 +9527,9 @@ div.chart {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 25%;
+  height: 100%;
   text-align: right;
-  padding: 2em; }
+  padding: -1em; }
 
 .hero-caption {
   padding: 1em;
