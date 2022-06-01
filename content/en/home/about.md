@@ -28,8 +28,7 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-
-The Functionl Genomics Lab is  yara yara ara
+THe Functional Genomics Lab is part of the [Centro de Investigación Científica y de Educación Superior de Ensenada](https://www.cicese.edu.mx/). Our studies focus on the use of massive sequencing tools to describe patterns of marine diversity as well as studying the impacts of climate change, such as ocean warming and acidification, on physiological processes in marine organisms with ecological and economic relevance.
 
 
 
@@ -40,4 +39,7 @@ The Functionl Genomics Lab is  yara yara ara
   * Effects of environmental fluctuations on marine species from a genomic and transcriptomic approach
   
   * Biological impacts of thermal variability and extreme weather on marine benthonic ectotherms
+  
+  
+
 

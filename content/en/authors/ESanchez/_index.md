@@ -8,13 +8,15 @@ superuser: false
 # Role/position/tagline
 role: Técnico
 
+# Adscription
+ads: CICESE; Ciencias de la Vida
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Agregar intro
-intro: Estudio los impactos de la temperatura en la fisiología de moluscos marinos a partir del análisi de expresión de genes
+intro: 
 
 # Interests to show in About widget
 interests: 
@@ -25,9 +27,9 @@ interests:
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
 # Correo electronico:
-- icon: envelope
-  icon_pack: fas
-  link: 
+#- icon: envelope
+#  icon_pack: fas
+#  link: 
   
 # google scholar
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack

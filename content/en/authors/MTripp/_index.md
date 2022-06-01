@@ -8,19 +8,21 @@ superuser: false
 # Role/position/tagline
 role: Posdoc
 
-
+# Adscription
+ads: CIBNOR 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # Agregar intro
-intro: Estudio los impactos de la temperatura en la fisiología de moluscos marinos a partir del análisi de expresión de genes
+intro: Estudio los impáctos de los cambios ambientales derivados de cambio climático y actividades antropogénicas en la fisiología y capacidad de respuesta de organismos marinos mediante indicadores sistémicos, celulares y moleculares
 
 # Interests to show in About widget
 interests: 
-- Transcriptómica
 - Ecofisiología
 - Bioinformática
+- RNAseq
+- omicas
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
@@ -30,8 +32,8 @@ social:
   link: mailto:miguel.tripp@gmail.com
   
 # google scholar
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   name: google scholar
   link: https://scholar.google.com.mx/citations?user=VaN33yMAAAAJ&hl=en
   
@@ -59,7 +61,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Posdocs
+- Colaboradores
 
 
 ---

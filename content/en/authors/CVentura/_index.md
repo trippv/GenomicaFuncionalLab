@@ -9,6 +9,9 @@ superuser: false
 role: Posdoc
 
 
+# Adscription
+ads: CICESE; Ciencias de la Vida
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -26,15 +29,16 @@ interests:
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
 # Correo electronico:
-# - icon: envelope
-#   icon_pack: fas
-#   link: mailto:miguel.tripp@gmail.com
+- icon: envelope
+  icon_pack: fas
+  link: mailto:ventura@cicese.mx
+
   
 # google scholar
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   name: google scholar
-#   link: https://scholar.google.com.mx/citations?user=VaN33yMAAAAJ&hl=en
+#   link: 
   
 # # github
 # - icon: github
@@ -61,9 +65,9 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Posdocs
+- Colaboradores
 
 
 ---
 
-Bióloga de ENCB-IPN (Ciudad de México). Durante su maestría, trabajó en el análisis de procesos reproductivos a nivel poblacional, así como en estudios de ecotoxicología en invertebrados de agua dulce. Obtuvo un doctorado en el CIBNOR, y sus intereses de investigación actuales involucran la genómica funcional y el control neuroendocrino de la reproducción de organismos acuáticos con valor ecológico y económico.
+Bióloga de ENCB-IPN (Ciudad de México). Durante su maestría, trabajó en el análisis de procesos reproductivos a nivel poblacional, así como en estudios de ecotoxicología en invertebrados de agua dulce. Obtuvo su doctorado en el CIBNOR, y sus intereses de investigación actuales involucran la genómica funcional y el control neuroendocrino de la reproducción de organismos acuáticos con valor ecológico y económico.

@@ -65,7 +65,7 @@ main_menu:
   show_day_night: true
   show_search: false
   highlight_active_link: true
-  show_social: false
+  
 
 
 

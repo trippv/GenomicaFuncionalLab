@@ -6,9 +6,13 @@ image:
   focal_point: Smart
 
 
-summary: Proyecto en colaboración con el Instituto de Investigaciones Oceanológica de la UABC
+summary: CICESE - UABC
 
-title: Efecto de la acidificación del océano sobre los mecanismos de regulación genética por microRNAs
+title: Ocean acidification effects on gene regulation mechanism by microRNAs
+
+
+# authors
+authors: ["RGOMEZ", "CEGalindo"]
 
 url_code: ""
 url_pdf: ""

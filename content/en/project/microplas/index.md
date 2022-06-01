@@ -6,9 +6,19 @@ image:
   focal_point: Smart
 
 
-summary: Proyecto en colaboración con el Instituto de Investigaciones Oceanológica de la UABC
+summary: CICESE - UABC
 
-title: Impacto de microplasticos en el ostión 
+title: Impacts of microplastics on the oyster _Crassostrea gigas_
+
+# authors
+authors: ["CVentura","ESanche", "MTripp", "CEGalindo"]
+
+# hide authors list from title
+hideAuthor: true
+
+# tags
+tags:
+  - curso
 
 url_code: ""
 url_pdf: ""
@@ -16,7 +26,6 @@ url_slides: ""
 url_video: ""
 ---
 
-La contaminación por microplásticos constituye un problema creciente en la región costera pero el impacto de la ingesta y acumulación de microplásticos en la fisiología de los organismos marinos aún permanece poco estudiada.
+Microplastic contamination is a growing problem in  coastal regions, but the impact of the ingestion and accumulation of microplastics on the physiology of marine organisms remains poorly studied.
 
-Este proyecto utiliza una aproximación transcriptómica para evaluar los perfiles de expresión de genes en el ostión _Crassostrea gigas_ comparando un sitio con mayor presencia de microplasticos con un sitio con menor concentración. Nuestro principal interés es estudiar los potenciales impactos en la reproducción, respuesta inmune y capacidad de detoxificación. 
-
+This project uses a transcriptomic approach to evaluate gene expression profiles in the oyster _Crassostrea gigas_ by comparing a site with a higher presence of microplastics with a site with a lower concentration. Our main interest is to study the potential impacts on reproduction, immune response and detoxification capacity.
