@@ -8,13 +8,15 @@ superuser: false
 # Role/position/tagline
 role: Posdoc
 
+ads: CICESE/CIBNOR
+
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: something
 
 # Agregar intro
-intro: Me interesa comprender los procesos biológicos, desde el nivel molecular hasta el ecosistémico, a través de los cuales los animales marinos responden a los cambios ambientales. 
+intro: Me interesa comprender las respuestas biológicas, desde el nivel molecular hasta el ecosistémico, de organismos marinos ante cambios ambientales. 
 
 # Interests to show in About widget
 interests: 

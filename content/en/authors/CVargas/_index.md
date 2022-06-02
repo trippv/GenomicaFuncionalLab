@@ -6,15 +6,19 @@ title: Carmen E. Vargas Peralta
 superuser: false
 
 # Role/position/tagline
-role: Estudiante de doctorado
+role: PhD Student
+
+
+# Adscription
+ads: CICESE
 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
+bio: Estoy estudiando la conectividad genética del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
 
 # Agregar intro
-intro: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
+intro: 
 
 # Interests to show in About widget
 interests: 

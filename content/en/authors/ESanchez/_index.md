@@ -6,28 +6,30 @@ title: Edna Sanchéz Castrejón
 superuser: false
 
 # Role/position/tagline
-role: Técnico
+role: Laboratory Technician
 
+# Adscription
+ads: CICESE
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Agregar intro
-intro: Estudio los impactos de la temperatura en la fisiología de moluscos marinos a partir del análisi de expresión de genes
+intro: 
 
 # Interests to show in About widget
 interests: 
-- Biotecnología
-- Inmunología clínica
-- Secuenciación másiva
+- Biotechnology
+- clinical immunology
+- high throughput sequencing
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
 # Correo electronico:
-- icon: envelope
-  icon_pack: fas
-  link: 
+#- icon: envelope
+#  icon_pack: fas
+#  link: 
   
 # google scholar
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -51,7 +53,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Técnicos de Laboratorio
+- Lab Technicians
 
 
 ---

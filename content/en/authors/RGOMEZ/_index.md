@@ -6,28 +6,29 @@ title: Ricardo Goméz Reyes
 superuser: false
 
 # Role/position/tagline
-role: Estudiante de doctorado
+role: PhD student
+
+ads: CICESE/UABC
 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
+#bio: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
 
 # Agregar intro
-intro: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
+#intro: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
 
 # Interests to show in About widget
 interests: 
-- Bioinformática
-- Transcriptómica
-- Data science
+- Bioinformatics
+- Transcriptomics
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
 # Correo electronico:
-- icon: envelope
-  icon_pack: fas
-  link: 'miguel.tripp@gmail.com'
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'miguel.tripp@gmail.com'
   
 # google scholar
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -57,7 +58,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes
+- Students
 
 
 ---

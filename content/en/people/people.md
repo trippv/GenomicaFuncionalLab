@@ -7,7 +7,7 @@ widget: people
 active: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 20
 
 title: Meet the Team
 subtitle:
@@ -22,6 +22,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  
 design:
   show_interests: false
   show_role: true

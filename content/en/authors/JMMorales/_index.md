@@ -6,28 +6,29 @@ title: José Manuel Morales
 superuser: false
 
 # Role/position/tagline
-role: Estudiante de doctorado
+role: PhD Student
+ads: Biotechnology Department. CICESE
 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
+bio: Actualmente me encuentro estudiando la conectividad genética del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
 
 # Agregar intro
-intro: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
+intro: Estudio la conectividad genética del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
 
 # Interests to show in About widget
 interests: 
 - Barcoding
-- Larvas de peces
-- Conectividad
+- Fish larvae
+- Conectivity of marine populations
 
 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes
+- Students
 
 
 ---

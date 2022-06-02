@@ -2,13 +2,15 @@
 widget: hero
 headless: true
 weight: 10
-title: Bienvenidos al Laboratorio de Genómica Funcional
-hero_media: 
+title: Welcome to the Functional Genomics Lab
+
+# la ubicación del logo esta en /assets/media/icons/logo.png
+#hero_media: logo.png
 
 
 design:
   background:
-    image: sea_two.jpg 
+    image: home_picture.jpg
     image_darken: 0.6
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
@@ -25,18 +27,10 @@ advanced:
 
 <br>
 
-Nuestras investigaciones se enfocan a estudiar la diversidad marina y los efectos de las variaciones ambientales sobre los organismos mediante en el uso de herramientas genómicas y transcriptómicas
+Our research focuses on studying marine diversity and the effects of environmental variations on organisms through the use of genomic tools.
 
 
 <br>
 
 <br>
 
-<p style="font-size:8px;text-align:left">Photo: Crisitan Palmer.</p>
-
-<div class="hero-img-logo">
-<a href="https://cicese.com.mx/">
-         <img alt="Qries" src="https://cicese.edu.mx/cicese2/assets/img/cicese.png"
-         width=150" height="70">
-         </a>
-  </div>

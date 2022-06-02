@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Proyectos en curso
+title: Proyectos de investigación
 subtitle: ''
 
 content:

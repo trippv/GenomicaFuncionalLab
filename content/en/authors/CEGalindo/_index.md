@@ -6,26 +6,29 @@ title: Clara Elizabeth Galindo Sánchez
 superuser: false
 
 # Role/position/tagline
-role: Investigador titular
+role: Principal Investigador
+
+# Adscription
+ads: Biotechnology Department. CICESE
 
 
 
-# Short bio (displayed in user profile at end of posts)
+
+# Short bio (displayed in user profile at endof posts)
 bio: 
 
 # Agregar intro
-intro: Estudio las adaptaciones fisiológicas y estrategias reproductivas ante el cambio climático, a nivel genómico y transcriptómico principalmente invertebrados marinos
+intro: Estudio las adaptaciones fisiológicas y estrategias reproductivas ante el cambio climático, a nivel genómico y transcriptómico principalmente en invertebrados marinos
 
 # Interests to show in About widget
-interests: 
-- Transcriptómica
-- Ecofisiología
-- Control de la reproducción
+interests:
+- Transcriptomics
+- Reproduction control in invertebrates
 - Metabarcoding
-- Regulación de la expresión génica
+- Regulation of gene expression
 
 
-# redes sociales: solo se usara RG, ORCID, y correo
+# redes sociales: solo se usará RG, ORCID, y correo
 social:
 # Correo electronico:
 - icon: envelope
@@ -66,6 +69,4 @@ user_groups:
 
 ---
 
-Es bióloga por la Universidad Veracruzana, con estudios de posgrado en la UABC y CIBNOR, en biología molecular y genómica poblacional. Realizó entrenamiento en genómica funcional, en una estancia posdoctoral en IFREMER, Francia, y continuó con estancias posdoctorales en el CIBNOR, en la misma línea de investigación.
-
-En el CICESE es investigadora en el Departamento de Biotecnología Marina y actualmente tiene a su cargo del laboratorio de Genómica Funcional de Organismos Marinos. Sus investigaciones se centran en el estudio de las adaptaciones fisiológicas y estrategias reproductivas ante cambios ambientales, a nivel genómico y transcriptómico en organismos marinos. También trabaja con genómica poblacional y metabarcoding de organismos marinos.
+Researcher in the Department of Marine Biotechnology and is currently in charge of the Laboratory of Functional Genomics of Marine Organisms. Her research focuses on the study of physiological adaptations and reproductive strategies in marine species in face of environmental changes, at the genomic and transcriptomic level. She also works with population genomics and metabarcoding of marine organisms.

@@ -6,23 +6,22 @@ title: Fabiola Lafarga De La Cruz
 superuser: false
 
 # Role/position/tagline
-role: Investigador titular. 
+role: Principal investigator 
 
 # Adscription
-ads: Acuicultura. CICESE
+ads: Aquaculture department. CICESE
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Agregar intro
-intro: Estudio la variabilidad y estructura genética de poblaciones naturales y de cultivo de organismos acuáticos para establecer programas de crianza selectiva y mejoramiento genético.
+intro: Estudio la variabilidad y estructura genética de poblaciones naturales y de cultivo de organismos acuáticos con importancia socio-económica para establecer programas de crianza selectiva y mejoramiento genético.
 
 # Interests to show in About widget
 interests: 
-- Mejoramiento genético
-- Cultivo moluscos
-- genética poblacional
-
+- Genetic improvement of marine species
+- Mollusk aquaculture
+- Population genetics
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
@@ -49,11 +48,11 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Colaboradores
+- Collaborators
 
 
 ---
 
 
 
-sitio personal: [https://www.cicese.edu.mx/investigacion/personal_academico/3428](https://www.cicese.edu.mx/investigacion/personal_academico/3428)
+Go to personal site: [https://www.cicese.edu.mx/investigacion/personal_academico/3428](https://www.cicese.edu.mx/investigacion/personal_academico/3428)

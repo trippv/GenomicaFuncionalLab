@@ -10,7 +10,7 @@ role: Posdoc
 
 
 # Adscription
-ads: CICESE; Ciencias de la Vida
+ads: Biotecnología marina. CICESE
 
 
 # Short bio (displayed in user profile at end of posts)

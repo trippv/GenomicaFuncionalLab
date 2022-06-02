@@ -6,31 +6,29 @@ title: Miguel A. Martinez Mercado
 superuser: false
 
 # Role/position/tagline
-role: Posdoc
+role: Posdoctoral researcher
 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: something
+bio: CICESE
 
 # Agregar intro
 intro: 
 
-
-
 # Interests to show in About widget
 interests: 
-- Bioinformática
+- Bioinformatics
 - Metabarcoding
-- Ecología microbiana
+- Microbiome ecology
 
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
 # Correo electronico:
-- icon: envelope
-  icon_pack: fas
-  link: 
+#- icon: envelope
+# icon_pack: fas
+# link: 
   
 # google scholar
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -51,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Posdocs
+- Collaborators
 
 
 ---
