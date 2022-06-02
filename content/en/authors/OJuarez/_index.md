@@ -6,21 +6,22 @@ title: Oscar E. Juárez
 superuser: false
 
 # Role/position/tagline
-role: Posdoc
+role: Posdoctoral researcher
+ads: CIBNOR/CICESE
 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: something
+bio: 
 
 # Agregar intro
 intro: Me interesa comprender los procesos biológicos, desde el nivel molecular hasta el ecosistémico, a través de los cuales los animales marinos responden a los cambios ambientales. 
 
 # Interests to show in About widget
 interests: 
-- Transcriptómica
-- Genómica poblacional
-- Control neuroendócrino
+- Transcriptomics
+- Population genomics
+- Neuroendocrine regulation in marine invertebrates
 
 
 # redes sociales: solo se usara RG, ORCID, y correo
@@ -53,7 +54,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Posdoctorantes
+- Collaborators
 
 
 ---

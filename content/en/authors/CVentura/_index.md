@@ -6,11 +6,11 @@ title: Claudia Ventura López
 superuser: false
 
 # Role/position/tagline
-role: Posdoc
+role: Posdoctoral researcher
 
 
 # Adscription
-ads: CICESE; Ciencias de la Vida
+ads: Biotechnoloy Department. CICESE
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,10 +20,11 @@ bio:
 intro: 
 
 # Interests to show in About widget
-interests: 
-- Control neuroendócrino
-- Transcriptómica
-- Ecotoxicologia acuatica
+interests:
+- Transcriptomics
+- Neuroendocrine control in marine invertebrates
+- Marine Ecotoxicology
+
 
 
 # redes sociales: solo se usara RG, ORCID, y correo
@@ -65,7 +66,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Colaboradores
+- Collaborators
 
 
 ---

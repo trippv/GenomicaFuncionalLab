@@ -6,11 +6,11 @@ title: Carmen E. Vargas Peralta
 superuser: false
 
 # Role/position/tagline
-role: Grad Students
+role: PhD Student
 
 
 # Adscription
-ads: CICESE; Ciencias de la Vida
+ads: CICESE
 
 
 
@@ -54,7 +54,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Students
 
 
 ---

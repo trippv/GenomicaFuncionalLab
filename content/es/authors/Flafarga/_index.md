@@ -9,13 +9,13 @@ superuser: false
 role: Investigador titular. 
 
 # Adscription
-ads: CICESE; Acuicultura
+ads: Acuicultura. CICESE
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Agregar intro
-intro: Estudio la variabilidad y estructura genética de poblaciones naturales y de cultivo de organismos acuáticos con importancia socio-económica para establecer programas de crianza selectiva y mejoramiento genético.
+intro: Estudio la variabilidad y estructura genética de poblaciones naturales y de cultivo de organismos acuáticos para establecer programas de crianza selectiva y mejoramiento genético.
 
 # Interests to show in About widget
 interests: 

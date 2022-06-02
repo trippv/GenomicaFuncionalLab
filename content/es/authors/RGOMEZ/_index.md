@@ -8,6 +8,8 @@ superuser: false
 # Role/position/tagline
 role: Estudiante de doctorado
 
+ads: UABC
+
 
 
 # Short bio (displayed in user profile at end of posts)

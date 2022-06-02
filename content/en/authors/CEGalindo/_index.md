@@ -6,10 +6,10 @@ title: Clara Elizabeth Galindo Sánchez
 superuser: false
 
 # Role/position/tagline
-role: Investigador titular
+role: Principal Investigador
 
 # Adscription
-ads: CICESE; Ciencias de la Vida
+ads: Biotechnology Department. CICESE
 
 
 
@@ -22,11 +22,10 @@ intro: Estudio las adaptaciones fisiológicas y estrategias reproductivas ante e
 
 # Interests to show in About widget
 interests:
-- Transcriptómica
-- Ecofisiología
-- Control de la reproducción
+- Transcriptomics
+- Reproduction control in invertebrates
 - Metabarcoding
-- Regulación de la expresión génica
+- Regulation of gene expression
 
 
 # redes sociales: solo se usará RG, ORCID, y correo
@@ -65,11 +64,9 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigador Principal
+- Principal Investigator
 
 
 ---
 
-Es bióloga por la Universidad Veracruzana, con estudios de posgrado en la UABC y CIBNOR, en biología molecular y genómica poblacional. Realizó entrenamiento en genómica funcional, en una estancia posdoctoral en IFREMER, Francia, y continuó con estancias posdoctorales en el CIBNOR, en la misma línea de investigación.
-
-En el CICESE es investigadora en el Departamento de Biotecnología Marina y actualmente tiene a su cargo del laboratorio de Genómica Funcional de Organismos Marinos. Sus investigaciones se centran en el estudio de las adaptaciones fisiológicas y estrategias reproductivas ante cambios ambientales, a nivel genómico y transcriptómico en organismos marinos. También trabaja con genómica poblacional y metabarcoding de organismos marinos.
+Researcher in the Department of Marine Biotechnology and is currently in charge of the Laboratory of Functional Genomics of Marine Organisms. Her research focuses on the study of physiological adaptations and reproductive strategies in marine species in face of environmental changes, at the genomic and transcriptomic level. She also works with population genomics and metabarcoding of marine organisms.

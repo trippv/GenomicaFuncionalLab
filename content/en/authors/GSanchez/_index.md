@@ -6,11 +6,11 @@ title: Grecia D. Sánchez Rosales
 superuser: false
 
 # Role/position/tagline
-role: Estudiante de maestría
+role: MsC student
 
 
 # Adscription
-ads: CICESE; Ciencias de la Vida
+ads: Biotechnoloy Department. CICESE
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -20,18 +20,17 @@ intro: Me encuentro realizando un estudio de genómica funcional de la especie _
 
 # Interests to show in About widget
 interests: 
-- Genómica y transcriptómica en especies marinas
-- Biolgía celular y molécular
-- Nutrición acuícola
-- Genética de poblaciones de especies marinas
-- Cultivos de apoyo en acuicultura
+- Genomics and transcriptomics of marine species
+- Cellular and molecular biology
+- Population genetics of marine species
+- Aquaculture and nutrition 
 
 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes
+- Students
 
 
 ---

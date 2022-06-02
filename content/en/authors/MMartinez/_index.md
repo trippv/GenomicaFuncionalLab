@@ -6,7 +6,7 @@ title: Miguel A. Martinez Mercado
 superuser: false
 
 # Role/position/tagline
-role: Posdoc
+role: Posdoctoral researcher
 
 
 
@@ -18,9 +18,9 @@ intro:
 
 # Interests to show in About widget
 interests: 
-- Bioinformática
+- Bioinformatics
 - Metabarcoding
-- Ecología microbiana
+- Microbiome ecology
 
 
 # redes sociales: solo se usara RG, ORCID, y correo
@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Colaboradores
+- Collaborators
 
 
 ---

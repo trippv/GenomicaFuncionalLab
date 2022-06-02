@@ -17,18 +17,19 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Principal Investigator
-  - Researchers
+  - Collaborators
   - Students
   - Administration
   - Visitors
   - Posdocs
-  - Lab Techncians
+  - Lab Technicians
+  
   
 design:
   show_interests: false
   show_role: true
   show_social: true
-  show_intro: true
+  show_intro: false
   
   
 ---

@@ -6,7 +6,9 @@ title: Pavel E. Galindo Torres
 superuser: false
 
 # Role/position/tagline
-role: Posdoc
+role: Posdoctoral researcher
+
+ads: Biotechnology department. CICESE
 
 
 
@@ -18,9 +20,9 @@ intro: Me interesa descubrir genes y estudiar su función empleando biotecnolog�
 
 # Interests to show in About widget
 interests: 
-- Genómica
-- Genómica Funcional
-- Organismos de interés acuícola
+- Genomics
+- Functional genomics
+- Culture of marine species
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
@@ -59,7 +61,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Posdoctorantes
+- Posdocs
 
 
 ---

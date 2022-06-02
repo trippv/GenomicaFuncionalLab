@@ -9,7 +9,7 @@ superuser: false
 role: Posdoc
 
 # Adscription
-ads: CICESE; Acuicultura
+ads: Acuicultura. CICESE
 
 
 

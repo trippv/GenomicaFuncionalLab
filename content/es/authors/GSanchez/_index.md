@@ -10,7 +10,7 @@ role: Estudiante de maestría
 
 
 # Adscription
-ads: CICESE; Ciencias de la Vida
+ads: Ciencias de la Vida. CICESE
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

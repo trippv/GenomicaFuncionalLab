@@ -6,7 +6,9 @@ title: Román Díaz Polo
 superuser: false
 
 # Role/position/tagline
-role: Estudiante de maestría
+role: MsC student
+
+ads: Biotechnology department. CICESE
 
 
 
@@ -18,17 +20,16 @@ intro: Pretendo evaluar los mecanismos epigenéticos en _Nodipecten subnodosus_ 
 
 # Interests to show in About widget
 interests: 
-- Evolución y adaptación en especies marinas
-- Epigenética
-- Genética de poblaciones de especies marinas
-- Ecología de especies de importancia pesquera 
-
+- Evolution and adaptation of marine species
+- Epigenetics
+- Population genetics of marine species
+- Fish ecology
 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes
+- Students
 
 
 ---

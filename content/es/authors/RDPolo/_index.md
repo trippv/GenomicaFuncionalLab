@@ -8,6 +8,8 @@ superuser: false
 # Role/position/tagline
 role: Estudiante de maestría
 
+ads: Ciencias de la Vida. CICESE
+
 
 
 # Short bio (displayed in user profile at end of posts)

@@ -6,10 +6,10 @@ superuser: false
 
 
 # Role/position/tagline
-role: Posdoc
+role: Posdoctoral researcher
 
 # Adscription
-ads: CICESE; Acuicultura
+ads: Aquaculture Department. CICESE
 
 
 
@@ -22,9 +22,9 @@ intro:
 
 # Interests to show in About widget
 interests: 
-- Ecología de fitoplancton
-- Filogenética molecular
-- Taxonomia de fitoplancton
+- Phytoplakton ecology
+- Molecular phylogenetics
+- Phytoplancton taxonomy
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
@@ -50,7 +50,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Collaborators
 
 
 ---

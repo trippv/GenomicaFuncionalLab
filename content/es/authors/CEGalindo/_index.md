@@ -9,7 +9,7 @@ superuser: false
 role: Investigador titular
 
 # Adscription
-ads: CICESE; Ciencias de la Vida
+ads: Biotecnología marina. CICESE
 
 
 

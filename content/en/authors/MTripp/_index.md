@@ -6,10 +6,10 @@ title: Miguel A. Tripp Valdez
 superuser: false
 
 # Role/position/tagline
-role: Posdoc
+role: Posdoctoral researcher
 
 # Adscription
-ads: CIBNOR 
+ads: CIBNOR/CICESE
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -19,10 +19,10 @@ intro: Estudio los impáctos de los cambios ambientales derivados de cambio clim
 
 # Interests to show in About widget
 interests: 
-- Ecofisiología
-- Bioinformática
+- Ecophysiology
+- Bioinformatics
 - RNAseq
-- omicas
+- omics technologies
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
@@ -61,7 +61,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Colaboradores
+- Collaborators
 
 
 ---
@@ -78,4 +78,4 @@ especies marinas de importancia acuícola. Su principal interés es utilizar de 
 indicadores sistémicos, metabolómicos y genéticos para evaluar las respuestas de los organismos
 marinos ante cambios ambientales.
 
-Pagina personal: [https://migueltripp.netlify.app/](https://migueltripp.netlify.app/)
+Personal site: [https://migueltripp.netlify.app/](https://migueltripp.netlify.app/)

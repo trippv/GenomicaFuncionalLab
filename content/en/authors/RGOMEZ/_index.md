@@ -6,7 +6,9 @@ title: Ricardo Goméz Reyes
 superuser: false
 
 # Role/position/tagline
-role: Estudiante de doctorado
+role: PhD student
+
+ads: CICESE/UABC
 
 
 
@@ -18,8 +20,8 @@ role: Estudiante de doctorado
 
 # Interests to show in About widget
 interests: 
-- Bioinformática
-- Transcriptómica
+- Bioinformatics
+- Transcriptomics
 
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
@@ -56,7 +58,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes
+- Students
 
 
 ---
