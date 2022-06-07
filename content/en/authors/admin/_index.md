@@ -36,7 +36,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MiguelTripp
+  link: https://twitter.com/ClaraGalindo3
   label: Follow me on Twitter
   display:
     header: true
