@@ -16,7 +16,7 @@ ads: UABC
 #bio: Estoy estudiando la conectividad genéticas del lenguado *Bothus robinsi* en el Golfo de México, utilizando RADseq
 
 # Agregar intro
-intro: I am interested in studying the susceptibility of exposed marine organisms to co-variables of climate change, especially ocean acidification
+intro: Me interesa estudiar la susceptibilidad de los organismos marinos expuestos a las co-variables del cambio climático, en especial la acidificación oceánica (AO).
 
 # Interests to show in About widget
 interests: 
