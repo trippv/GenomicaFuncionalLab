@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ricardo Goméz Reyes | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/author/ricardo-gomez-reyes/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/author/ricardo-gomez-reyes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/author/ricardo-gomez-reyes/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/author/ricardo-gomez-reyes/index.xml" rel="self" type="application/rss+xml" />
     <description>Ricardo Goméz Reyes</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/author/ricardo-gomez-reyes/avatar_hu9d19a7dd7302a82e654e7da59fe71836_28103_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://genomicafuncional.cicese.mx/author/ricardo-gomez-reyes/avatar_hu9d19a7dd7302a82e654e7da59fe71836_28103_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Ricardo Goméz Reyes</title>
-      <link>https://genomicafuncionallab.netlify.app/author/ricardo-gomez-reyes/</link>
+      <link>https://genomicafuncional.cicese.mx/author/ricardo-gomez-reyes/</link>
     </image>
     
     <item>
       <title>Diversidad de ictioplacton y zooplancton en el Golfo de México. Una aproximación metagenética y taxonómica</title>
-      <link>https://genomicafuncionallab.netlify.app/project/metabar/</link>
+      <link>https://genomicafuncional.cicese.mx/project/metabar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/project/metabar/</guid>
+      <guid>https://genomicafuncional.cicese.mx/project/metabar/</guid>
       <description>&lt;p&gt;El subproyecto “Diversidad de Ictioplancton y Zooplancton en el Golfo de México” formo parte de la Línea 2 del &lt;a href=&#34;https://cigom.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIGOM&lt;/a&gt;. En este subproyecto se utilizaron herramientas moleculares de alto potencial (secuenciación masiva de genes marcadores) para establecer una línea base de la diversidad de organismos en el Golfo de México.&lt;/p&gt;
 </description>
     </item>

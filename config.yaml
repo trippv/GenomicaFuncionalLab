@@ -7,10 +7,10 @@ theme: "starter-hugo-academic"
 title: Genómica Funcional # Website name
 
 # Base url asignado por SI cicese
-baseurl: 'https://genomicafuncionallab.netlify.app/' # Website URL
+#baseurl: 'https://genomicafuncionallab.netlify.app/' # Website URL
 
 # Base url de prueba en netlify
-#baseurl: 'https://genomicafuncional.cicese.mx' # Website URL
+baseurl: 'https://genomicafuncional.cicese.mx' # Website URL
 
 copyright: '' # Footer text, e.g. '© {year} Me'
 

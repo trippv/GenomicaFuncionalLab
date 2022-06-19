@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E. Delgadillo-Nuno | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/author/e.-delgadillo-nuno/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/author/e.-delgadillo-nuno/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/author/e.-delgadillo-nuno/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/author/e.-delgadillo-nuno/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Delgadillo-Nuno</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
       <title>E. Delgadillo-Nuno</title>
-      <link>https://genomicafuncionallab.netlify.app/author/e.-delgadillo-nuno/</link>
+      <link>https://genomicafuncional.cicese.mx/author/e.-delgadillo-nuno/</link>
     </image>
     
     <item>
       <title>Gene expression plasticity in Pocillopora corals from 2 locations on the carrizales reef, pacific coast of Mexico [Plasticidad de la expresión génica en corales Pocillopora de 2 localidades del arrecife carrizales, costa Mexicana del pacífico]</title>
-      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/</link>
+      <link>https://genomicafuncional.cicese.mx/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/</guid>
+      <guid>https://genomicafuncional.cicese.mx/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/</guid>
       <description></description>
     </item>
     

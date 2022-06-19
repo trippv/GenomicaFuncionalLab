@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ténicas en biología molecular | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/courses/tbm/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/courses/tbm/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/courses/tbm/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/courses/tbm/index.xml" rel="self" type="application/rss+xml" />
     <description>Ténicas en biología molecular</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
       <title>Ténicas en biología molecular</title>
-      <link>https://genomicafuncionallab.netlify.app/courses/tbm/</link>
+      <link>https://genomicafuncional.cicese.mx/courses/tbm/</link>
     </image>
     
   </channel>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A.M. Ibarra | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/en/author/a.m.-ibarra/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/a.m.-ibarra/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/en/author/a.m.-ibarra/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/en/author/a.m.-ibarra/index.xml" rel="self" type="application/rss+xml" />
     <description>A.M. Ibarra</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
       <title>A.M. Ibarra</title>
-      <link>https://genomicafuncionallab.netlify.app/en/author/a.m.-ibarra/</link>
+      <link>https://genomicafuncional.cicese.mx/en/author/a.m.-ibarra/</link>
     </image>
     
     <item>
       <title>Transcriptomic information from Pacific white shrimp (Litopenaeus vannamei) ovary and eyestalk, and expression patterns for genes putatively involved in the reproductive process</title>
-      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</link>
+      <link>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</guid>
+      <guid>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Allotriploid genotypic assignment in abalone larvae by detection of microsatellite-recombinant genotypes</title>
-      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</link>
+      <link>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</guid>
+      <guid>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Isolation of microsatellite loci in green abalone (Haliotis fulgens) and cross-species amplification in two other North American red (Haliotis rufescens) and pink (Haliotis corrugata) abalones</title>
-      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_cruz2005857/</link>
+      <link>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2005-01-01_cruz2005857/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_cruz2005857/</guid>
+      <guid>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2005-01-01_cruz2005857/</guid>
       <description></description>
     </item>
     

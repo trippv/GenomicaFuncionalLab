@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Alejandri | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/author/n.-alejandri/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/author/n.-alejandri/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/author/n.-alejandri/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/author/n.-alejandri/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Alejandri</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
       <title>N. Alejandri</title>
-      <link>https://genomicafuncionallab.netlify.app/author/n.-alejandri/</link>
+      <link>https://genomicafuncional.cicese.mx/author/n.-alejandri/</link>
     </image>
     
     <item>
       <title>Transcriptomic response and hydrocarbon accumulation in the eastern oyster (Crassostrea virginica) exposed to crude oil</title>
-      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_lopez-landavery2019/</link>
+      <link>https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_lopez-landavery2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_lopez-landavery2019/</guid>
+      <guid>https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_lopez-landavery2019/</guid>
       <description></description>
     </item>
     

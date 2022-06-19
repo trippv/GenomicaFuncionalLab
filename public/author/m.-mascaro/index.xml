@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Mascaro | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/author/m.-mascaro/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/author/m.-mascaro/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/author/m.-mascaro/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/author/m.-mascaro/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Mascaro</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
       <title>M. Mascaro</title>
-      <link>https://genomicafuncionallab.netlify.app/author/m.-mascaro/</link>
+      <link>https://genomicafuncional.cicese.mx/author/m.-mascaro/</link>
     </image>
     
     <item>
       <title>Thermal sensitivity of O. maya embryos as a tool for monitoring the effects of environmental warming in the Southern of Gulf of Mexico</title>
-      <link>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</link>
+      <link>https://genomicafuncional.cicese.mx/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</guid>
+      <guid>https://genomicafuncional.cicese.mx/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edna Sanchéz Castrejón | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/author/edna-sanchez-castrejon/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/author/edna-sanchez-castrejon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/author/edna-sanchez-castrejon/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/author/edna-sanchez-castrejon/index.xml" rel="self" type="application/rss+xml" />
     <description>Edna Sanchéz Castrejón</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/author/edna-sanchez-castrejon/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://genomicafuncional.cicese.mx/author/edna-sanchez-castrejon/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Edna Sanchéz Castrejón</title>
-      <link>https://genomicafuncionallab.netlify.app/author/edna-sanchez-castrejon/</link>
+      <link>https://genomicafuncional.cicese.mx/author/edna-sanchez-castrejon/</link>
     </image>
     
     <item>
       <title>Análisis de expresión de genes mediante PCR en tiempo real</title>
-      <link>https://genomicafuncionallab.netlify.app/cursos/qpcr/</link>
+      <link>https://genomicafuncional.cicese.mx/cursos/qpcr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/cursos/qpcr/</guid>
+      <guid>https://genomicafuncional.cicese.mx/cursos/qpcr/</guid>
       <description>&lt;p&gt;visita el &lt;a href=&#34;https://posgrados.cicese.mx/posgrado/plan_de_estudios/maestria&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plan de estudios&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;instructores&#34;&gt;Instructores:&lt;/h1&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Técnicas en biología molecular</title>
-      <link>https://genomicafuncionallab.netlify.app/cursos/tbm/</link>
+      <link>https://genomicafuncional.cicese.mx/cursos/tbm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/cursos/tbm/</guid>
+      <guid>https://genomicafuncional.cicese.mx/cursos/tbm/</guid>
       <description>&lt;p&gt;visita el &lt;a href=&#34;https://posgrados.cicese.mx/posgrado/plan_de_estudios/maestria&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plan de estudios&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;instructores&#34;&gt;Instructores:&lt;/h1&gt;
 </description>

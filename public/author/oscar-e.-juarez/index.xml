@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oscar E. Juárez | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/author/oscar-e.-juarez/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/author/oscar-e.-juarez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/author/oscar-e.-juarez/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/author/oscar-e.-juarez/index.xml" rel="self" type="application/rss+xml" />
     <description>Oscar E. Juárez</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/author/oscar-e.-juarez/avatar_hu91387eef7ef8bb7fec2e3e4a8652e1e5_66170_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://genomicafuncional.cicese.mx/author/oscar-e.-juarez/avatar_hu91387eef7ef8bb7fec2e3e4a8652e1e5_66170_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Oscar E. Juárez</title>
-      <link>https://genomicafuncionallab.netlify.app/author/oscar-e.-juarez/</link>
+      <link>https://genomicafuncional.cicese.mx/author/oscar-e.-juarez/</link>
     </image>
     
   </channel>
