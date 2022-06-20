@@ -29,27 +29,27 @@ interests:
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
 # Correo electronico:
-- icon: envelope
-  icon_pack: fas
-  link: 
+# - icon: envelope
+#   icon_pack: fas
+#   link: 
   
 # google scholar
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  name: google scholar
-  link: 
-  
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   name: google scholar
+#   link: 
+#   
 
 # Research gate
-- icon: researchgate
-  icon_pack: fab
-  name: Reasearch Gate
-  link: 
-  
-- icon: orcid
-  icon_pack: fab
-  name: ORCID
-  link: 
+# - icon: researchgate
+#   icon_pack: fab
+#   name: Reasearch Gate
+#   link: 
+#   
+# - icon: orcid
+#   icon_pack: fab
+#   name: ORCID
+#   link: 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

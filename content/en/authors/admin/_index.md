@@ -63,3 +63,5 @@ highlight_name: true
 user_groups:
 - Researchers
 ---
+
+Researcher in the Department of Marine Biotechnology and is currently in charge of the Laboratory of Functional Genomics of Marine Organisms. Her research focuses on the study of physiological adaptations and reproductive strategies in marine species in face of environmental changes, at the genomic and transcriptomic level. She also works with population genomics and metabarcoding of marine organisms.

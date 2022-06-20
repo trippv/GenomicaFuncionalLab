@@ -36,11 +36,11 @@ social:
 #  link: 'miguel.tripp@gmail.com'
   
 # google scholar
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  name: google scholar
-  link: 
-  
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   name: google scholar
+#   link: 
+#   
 # github
 #- icon: github
 #  icon_pack: fab
