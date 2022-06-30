@@ -27,7 +27,7 @@ es:
         url: '#projects'
         weight: 40
       - name: Publicaciones
-        url: publication/
+        url: '#publications'
         weight: 50
       - name: Cursos
         url: cursos/
