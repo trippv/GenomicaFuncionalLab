@@ -2,15 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claudia Ventura López | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/en/author/claudia-ventura-lopez/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/claudia-ventura-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/en/author/claudia-ventura-lopez/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/en/author/claudia-ventura-lopez/index.xml" rel="self" type="application/rss+xml" />
     <description>Claudia Ventura López</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/en/author/claudia-ventura-lopez/avatar_hu148a65a2042940543795f062fb8cfaa1_56167_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://genomicafuncional.cicese.mx/en/author/claudia-ventura-lopez/avatar_hue0d64b2d36723b1c74b5cf3b36647ed6_62961_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Claudia Ventura López</title>
-      <link>https://genomicafuncionallab.netlify.app/en/author/claudia-ventura-lopez/</link>
+      <link>https://genomicafuncional.cicese.mx/en/author/claudia-ventura-lopez/</link>
     </image>
+    
+    <item>
+      <title>Impacts of microplastics on the oyster _Crassostrea gigas_</title>
+      <link>https://genomicafuncional.cicese.mx/en/project/microplas/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/en/project/microplas/</guid>
+      <description>&lt;p&gt;Microplastic contamination is a growing problem in  coastal regions, but the impact of the ingestion and accumulation of microplastics on the physiology of marine organisms remains poorly studied.&lt;/p&gt;
+&lt;p&gt;This project uses a transcriptomic approach to evaluate gene expression profiles in the oyster &lt;em&gt;Crassostrea gigas&lt;/em&gt; by comparing a site with a higher presence of microplastics with a site with a lower concentration. Our main interest is to study the potential impacts on reproduction, immune response and detoxification capacity.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

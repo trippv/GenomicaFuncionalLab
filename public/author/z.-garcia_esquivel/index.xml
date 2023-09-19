@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z. Garcia_Esquivel | Genómica Funcional</title>
+    <link>https://genomicafuncional.cicese.mx/author/z.-garcia_esquivel/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/author/z.-garcia_esquivel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Z. Garcia_Esquivel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <title>Z. Garcia_Esquivel</title>
+      <link>https://genomicafuncional.cicese.mx/author/z.-garcia_esquivel/</link>
+    </image>
+    
+    <item>
+      <title>Acidification stress effect on umbonate veliger larval development in Panopea globosa</title>
+      <link>https://genomicafuncional.cicese.mx/publication/my-md-folder/2021-01-01-lopez-landavery2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/publication/my-md-folder/2021-01-01-lopez-landavery2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

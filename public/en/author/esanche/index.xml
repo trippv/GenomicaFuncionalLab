@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESanche | Genómica Funcional</title>
+    <link>https://genomicafuncional.cicese.mx/en/author/esanche/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/en/author/esanche/index.xml" rel="self" type="application/rss+xml" />
+    <description>ESanche</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <title>ESanche</title>
+      <link>https://genomicafuncional.cicese.mx/en/author/esanche/</link>
+    </image>
+    
+    <item>
+      <title>Impacts of microplastics on the oyster _Crassostrea gigas_</title>
+      <link>https://genomicafuncional.cicese.mx/en/project/microplas/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/en/project/microplas/</guid>
+      <description>&lt;p&gt;Microplastic contamination is a growing problem in  coastal regions, but the impact of the ingestion and accumulation of microplastics on the physiology of marine organisms remains poorly studied.&lt;/p&gt;
+&lt;p&gt;This project uses a transcriptomic approach to evaluate gene expression profiles in the oyster &lt;em&gt;Crassostrea gigas&lt;/em&gt; by comparing a site with a higher presence of microplastics with a site with a lower concentration. Our main interest is to study the potential impacts on reproduction, immune response and detoxification capacity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

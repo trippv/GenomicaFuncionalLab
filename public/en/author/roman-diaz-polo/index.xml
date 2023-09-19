@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Román Díaz Polo | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/en/author/roman-diaz-polo/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/roman-diaz-polo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/en/author/roman-diaz-polo/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/en/author/roman-diaz-polo/index.xml" rel="self" type="application/rss+xml" />
     <description>Román Díaz Polo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/en/author/roman-diaz-polo/avatar_hu5fd99f6f1e6ad0693fe5b34b770ef8c7_51627_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://genomicafuncional.cicese.mx/en/author/roman-diaz-polo/avatar_hu5fd99f6f1e6ad0693fe5b34b770ef8c7_51627_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Román Díaz Polo</title>
-      <link>https://genomicafuncionallab.netlify.app/en/author/roman-diaz-polo/</link>
+      <link>https://genomicafuncional.cicese.mx/en/author/roman-diaz-polo/</link>
     </image>
     
   </channel>

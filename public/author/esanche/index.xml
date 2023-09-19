@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESanche | Genómica Funcional</title>
+    <link>https://genomicafuncional.cicese.mx/author/esanche/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/author/esanche/index.xml" rel="self" type="application/rss+xml" />
+    <description>ESanche</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <title>ESanche</title>
+      <link>https://genomicafuncional.cicese.mx/author/esanche/</link>
+    </image>
+    
+    <item>
+      <title>Impacto de microplasticos en el ostión</title>
+      <link>https://genomicafuncional.cicese.mx/project/microplas/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/project/microplas/</guid>
+      <description>&lt;p&gt;La contaminación por microplásticos constituye un problema creciente en la región costera pero el impacto de la ingesta y acumulación de microplásticos en la fisiología de los organismos marinos aún permanece poco estudiada.&lt;/p&gt;
+&lt;p&gt;Este proyecto utiliza una aproximación transcriptómica para evaluar los perfiles de expresión de genes en el ostión &lt;em&gt;Crassostrea gigas&lt;/em&gt; comparando un sitio con mayor presencia de microplasticos con un sitio con menor concentración. Nuestro principal interés es estudiar los potenciales impactos en la reproducción, respuesta inmune y capacidad de detoxificación.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>curso | Genómica Funcional</title>
+    <link>https://genomicafuncional.cicese.mx/en/tag/curso/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/en/tag/curso/index.xml" rel="self" type="application/rss+xml" />
+    <description>curso</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <title>curso</title>
+      <link>https://genomicafuncional.cicese.mx/en/tag/curso/</link>
+    </image>
+    
+    <item>
+      <title>Impacts of microplastics on the oyster _Crassostrea gigas_</title>
+      <link>https://genomicafuncional.cicese.mx/en/project/microplas/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/en/project/microplas/</guid>
+      <description>&lt;p&gt;Microplastic contamination is a growing problem in  coastal regions, but the impact of the ingestion and accumulation of microplastics on the physiology of marine organisms remains poorly studied.&lt;/p&gt;
+&lt;p&gt;This project uses a transcriptomic approach to evaluate gene expression profiles in the oyster &lt;em&gt;Crassostrea gigas&lt;/em&gt; by comparing a site with a higher presence of microplastics with a site with a lower concentration. Our main interest is to study the potential impacts on reproduction, immune response and detoxification capacity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biological impacts of temperature variability and extremes in benthic marine ectotherms; biological fitness, adaptive potential and phenotypic plasticity</title>
+      <link>https://genomicafuncional.cicese.mx/en/project/nsubno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/en/project/nsubno/</guid>
+      <description>&lt;p&gt;This project proposes an intensive, multi-scale, multi-response study of the impacts of temperature variability on the lion&amp;rsquo;s pawn &lt;em&gt;Nodipecten subnodosus&lt;/em&gt;, a marine ectotherm for which we have physiological and genetic information, to understand how variability shapes and limits the adaptability of populations and the phenotypic plasticity and fitness of individuals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heavy metals and elasmobranchs microbiome.</title>
+      <link>https://genomicafuncional.cicese.mx/en/project/sosf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/en/project/sosf/</guid>
+      <description>&lt;p&gt;This project is being funded by the [Save Our Sears] Foundation (&lt;a href=&#34;https://saveourseas.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://saveourseas.com/&lt;/a&gt;) in collaboration with the [Centro Intersciplinario de Ciencias del Mar] (&lt;a href=&#34;https://www.cicimar.ipn.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cicimar.ipn.mx/&lt;/a&gt;) at the city of La Paz, B.C.S.&lt;/p&gt;
+&lt;p&gt;The present proposal aims to investigate the gastrointestinal microbiome in a pelagic shark and a benthic ray, contrasting a site with high levels of heavy metal contamination and two sites with low levels of anthropogenic impact along the Baja California Peninsula. The microbiome plays a fundamental role in the physiology and well-being of the host by influencing nutrient absorption, energy metabolism, regulation of reserves and enhancing protection against pathogens and environmental contaminants. Therefore, the present study aims to investigate whether the most polluted habitat induces negative alterations (dysbiosis) in the diversity of the microbiome.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://saveourseas.com/project/gut-feeling-the-impact-of-heavy-metals-on-shark-microbiomes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Go to project page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

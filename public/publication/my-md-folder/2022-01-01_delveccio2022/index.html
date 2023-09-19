@@ -1,0 +1,1196 @@
+<!DOCTYPE html><html lang="es" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Clara Elizabeth Galindo Sánchez" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Hippocampus erectus inhabiting the shallow coastal waters of the southern Gulf of Mexico are naturally exposed to marked temperature variations occurring in different temporal scales. Under such heterogeneous conditions, a series of physiological and biochemical adjustments take place to restore and maintain homeostasis. This study investigated the molecular mechanisms involved in the response of H. erectus to increased temperature using transcriptome analysis based on RNA-Seq technology. Data was obtained from seahorses after 0.5-h exposure to combinations of different target temperatures (26 °C: control, and increased to 30 and 33 °C) and rates of thermal increase (abrupt: &lt; 5 min; gradual: 1–1.5 °C every 3 h). The transcriptome of seahorses was assembled de novo using Trinity software to obtain 29,211 genes and 30,479 transcripts comprising 27,520,965 assembled bases. Seahorse exposure to both 30 and 33 °C triggered characteristic processes of the cellular stress response, regardless of the rate of thermal change. The transcriptomic profiles of H. erectus suggest an arrest of muscle development processes, the activation of heat shock proteins, and a switch to anaerobic metabolism within the first 0.5 h of exposure to target temperatures to ensure energy supply. Interestingly, apoptotic processes involving caspase were activated principally in gradual treatments, suggesting that prolonged exposure to even sublethal temperatures results in the accumulation of deleterious effects that may eventually terminate in cellular death. Results herein validate 30 °C and 33 °C as potential upper limits of thermal tolerance for H. erectus at the southernmost boundary of its geographic distribution." />
+
+  
+    <link rel="alternate" hreflang="en" href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_delveccio2022/" />
+  
+  <link rel="alternate" hreflang="es" href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2022-01-01_delveccio2022/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.11873c63e57b909b6603a1bedf68c2da.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu27935eac795f12b1de7714e2cdf5239b_61439_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu27935eac795f12b1de7714e2cdf5239b_61439_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2022-01-01_delveccio2022/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@ " />
+    <meta property="twitter:creator" content="@ " />
+  
+  <meta property="og:site_name" content="Genómica Funcional" />
+  <meta property="og:url" content="https://genomicafuncional.cicese.mx/publication/my-md-folder/2022-01-01_delveccio2022/" />
+  <meta property="og:title" content="Transcriptomic response in thermally challenged seahorses Hippocampus erectus: The effect of magnitude and rate of temperature change | Genómica Funcional" />
+  <meta property="og:description" content="Hippocampus erectus inhabiting the shallow coastal waters of the southern Gulf of Mexico are naturally exposed to marked temperature variations occurring in different temporal scales. Under such heterogeneous conditions, a series of physiological and biochemical adjustments take place to restore and maintain homeostasis. This study investigated the molecular mechanisms involved in the response of H. erectus to increased temperature using transcriptome analysis based on RNA-Seq technology. Data was obtained from seahorses after 0.5-h exposure to combinations of different target temperatures (26 °C: control, and increased to 30 and 33 °C) and rates of thermal increase (abrupt: &lt; 5 min; gradual: 1–1.5 °C every 3 h). The transcriptome of seahorses was assembled de novo using Trinity software to obtain 29,211 genes and 30,479 transcripts comprising 27,520,965 assembled bases. Seahorse exposure to both 30 and 33 °C triggered characteristic processes of the cellular stress response, regardless of the rate of thermal change. The transcriptomic profiles of H. erectus suggest an arrest of muscle development processes, the activation of heat shock proteins, and a switch to anaerobic metabolism within the first 0.5 h of exposure to target temperatures to ensure energy supply. Interestingly, apoptotic processes involving caspase were activated principally in gradual treatments, suggesting that prolonged exposure to even sublethal temperatures results in the accumulation of deleterious effects that may eventually terminate in cellular death. Results herein validate 30 °C and 33 °C as potential upper limits of thermal tolerance for H. erectus at the southernmost boundary of its geographic distribution." /><meta property="og:image" content="https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png" />
+    <meta property="twitter:image" content="https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="es" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-01-06T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-01-06T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://genomicafuncional.cicese.mx/publication/my-md-folder/2022-01-01_delveccio2022/"
+  },
+  "headline": "Transcriptomic response in thermally challenged seahorses Hippocampus erectus: The effect of magnitude and rate of temperature change",
+  
+  "datePublished": "2022-01-06T00:00:00Z",
+  "dateModified": "2022-01-06T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "G. Del Vecchio"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Genomica Funcional",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_192x192_fit_lanczos_3.png"
+    }
+  },
+  "description": "Hippocampus erectus inhabiting the shallow coastal waters of the southern Gulf of Mexico are naturally exposed to marked temperature variations occurring in different temporal scales. Under such heterogeneous conditions, a series of physiological and biochemical adjustments take place to restore and maintain homeostasis. This study investigated the molecular mechanisms involved in the response of H. erectus to increased temperature using transcriptome analysis based on RNA-Seq technology. Data was obtained from seahorses after 0.5-h exposure to combinations of different target temperatures (26 °C: control, and increased to 30 and 33 °C) and rates of thermal increase (abrupt: \u003c 5 min; gradual: 1–1.5 °C every 3 h). The transcriptome of seahorses was assembled de novo using Trinity software to obtain 29,211 genes and 30,479 transcripts comprising 27,520,965 assembled bases. Seahorse exposure to both 30 and 33 °C triggered characteristic processes of the cellular stress response, regardless of the rate of thermal change. The transcriptomic profiles of H. erectus suggest an arrest of muscle development processes, the activation of heat shock proteins, and a switch to anaerobic metabolism within the first 0.5 h of exposure to target temperatures to ensure energy supply. Interestingly, apoptotic processes involving caspase were activated principally in gradual treatments, suggesting that prolonged exposure to even sublethal temperatures results in the accumulation of deleterious effects that may eventually terminate in cellular death. Results herein validate 30 °C and 33 °C as potential upper limits of thermal tolerance for H. erectus at the southernmost boundary of its geographic distribution."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Transcriptomic response in thermally challenged seahorses Hippocampus erectus: The effect of magnitude and rate of temperature change | Genómica Funcional</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="53087e3d2389c024b63f7dbc5366ac91" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Buscar</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Cerrar"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Buscar..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Buscar...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/media/logo_huf49ac23815ee24176437461c1b12568f_253782_0x90_resize_lanczos_3.png" alt="Genómica Funcional"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Barra de navegación">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/media/logo_huf49ac23815ee24176437461c1b12568f_253782_0x90_resize_lanczos_3.png" alt="Genómica Funcional"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#intro"><span>Acerca</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>Equipo de Trabajo</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Proyectos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publicaciones</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/cursos/"><span>Cursos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.cicese.edu.mx/" target="_blank" rel="noopener"><span>Ir al sitio de CICESE</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+          
+          <li class="nav-item d-none d-lg-inline-flex">
+            <a class="nav-link" href="https://twitter.com/ClaraGalindo3" data-toggle="tooltip" data-placement="bottom" title="Follow me on Twitter" target="_blank" rel="noopener" aria-label="Follow me on Twitter">
+              <i class="fab fa-twitter" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+
+      
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Mostrar preferencias">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Claro</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Oscuro</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automático</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+           aria-haspopup="true" aria-label="Idiomas">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Español</span></a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>Español</span>
+          </div>
+          
+          <a class="dropdown-item" href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_delveccio2022/">
+            <span>English</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Transcriptomic response in thermally challenged seahorses Hippocampus erectus: The effect of magnitude and rate of temperature change</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+    
+  
+     
+  
+  
+
+<div>
+    
+
+  <span >
+      <a href="/author/g.-del-vecchio/">G. Del Vecchio</a></span>, <span >
+      <a href="/author/c.e.-galindo-sanchez/">C.E. Galindo-Sanchez</a></span>, <span >
+      <a href="/author/m.a.-tripp-valdez/">M.A. Tripp-Valdez</a></span>, <span >
+      <a href="/author/e.-lopez-landavery/">E. Lopez-Landavery</a></span>, <span >
+      <a href="/author/c.-rosas/">C. Rosas</a></span>, <span >
+      <a href="/author/m.-mascaro/">M. Mascaro</a></span>
+  </div>
+    
+    
+  
+
+
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Resumen</h3>
+    <p class="pub-abstract">Hippocampus erectus inhabiting the shallow coastal waters of the southern Gulf of Mexico are naturally exposed to marked temperature variations occurring in different temporal scales. Under such heterogeneous conditions, a series of physiological and biochemical adjustments take place to restore and maintain homeostasis. This study investigated the molecular mechanisms involved in the response of H. erectus to increased temperature using transcriptome analysis based on RNA-Seq technology. Data was obtained from seahorses after 0.5-h exposure to combinations of different target temperatures (26 °C: control, and increased to 30 and 33 °C) and rates of thermal increase (abrupt: &lt; 5 min; gradual: 1–1.5 °C every 3 h). The transcriptome of seahorses was assembled de novo using Trinity software to obtain 29,211 genes and 30,479 transcripts comprising 27,520,965 assembled bases. Seahorse exposure to both 30 and 33 °C triggered characteristic processes of the cellular stress response, regardless of the rate of thermal change. The transcriptomic profiles of H. erectus suggest an arrest of muscle development processes, the activation of heat shock proteins, and a switch to anaerobic metabolism within the first 0.5 h of exposure to target temperatures to ensure energy supply. Interestingly, apoptotic processes involving caspase were activated principally in gradual treatments, suggesting that prolonged exposure to even sublethal temperatures results in the accumulation of deleterious effects that may eventually terminate in cellular death. Results herein validate 30 °C and 33 °C as potential upper limits of thermal tolerance for H. erectus at the southernmost boundary of its geographic distribution.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Tipo</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Artículo de revista
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publicación</div>
+          <div class="col-12 col-md-9">In: Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology, <a href="https://doi.org/10.1016/j.cbpb.2022.110771">https://doi.org/10.1016/j.cbpb.2022.110771</a></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="resp-sharing-button__link" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fgenomicafuncional.cicese.mx%2fpublication%2fmy-md-folder%2f2022-01-01_delveccio2022%2f" target="_blank" rel="noopener" aria-label="">
+  <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm3.6 11.5h-2.1v7h-3v-7h-2v-2h2V8.34c0-1.1.35-2.82 2.65-2.82h2.35v2.3h-1.4c-.25 0-.6.13-.6.66V9.5h2.34l-.24 2z"/></svg>
+    </div>
+  </div>
+</a>
+
+
+<a class="resp-sharing-button__link" href="http://twitter.com/share?url=https%3a%2f%2fgenomicafuncional.cicese.mx%2fpublication%2fmy-md-folder%2f2022-01-01_delveccio2022%2f&text=Transcriptomic%20response%20in%20thermally%20challenged%20seahorses%20Hippocampus%20erectus%3a%20The%20effect%20of%20magnitude%20and%20rate%20of%20temperature%20change&via=" target="_blank" rel="noopener" aria-label="">
+  <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm5.26 9.38v.34c0 3.48-2.64 7.5-7.48 7.5-1.48 0-2.87-.44-4.03-1.2 1.37.17 2.77-.2 3.9-1.08-1.16-.02-2.13-.78-2.46-1.83.38.1.8.07 1.17-.03-1.2-.24-2.1-1.3-2.1-2.58v-.05c.35.2.75.32 1.18.33-.7-.47-1.17-1.28-1.17-2.2 0-.47.13-.92.36-1.3C7.94 8.85 9.88 9.9 12.06 10c-.04-.2-.06-.4-.06-.6 0-1.46 1.18-2.63 2.63-2.63.76 0 1.44.3 1.92.82.6-.12 1.95-.27 1.95-.27-.35.53-.72 1.66-1.24 2.04z"/></svg>
+    </div>
+  </div>
+</a>
+
+
+<a class="resp-sharing-button__link" href="mailto:?subject=Transcriptomic%20response%20in%20thermally%20challenged%20seahorses%20Hippocampus%20erectus%3a%20The%20effect%20of%20magnitude%20and%20rate%20of%20temperature%20change&amp;body=https%3a%2f%2fgenomicafuncional.cicese.mx%2fpublication%2fmy-md-folder%2f2022-01-01_delveccio2022%2f" target="_self" rel="noopener" aria-label="">
+  <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm8 16c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2V8c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2v8z"/><path d="M17.9 8.18c-.2-.2-.5-.24-.72-.07L12 12.38 6.82 8.1c-.22-.16-.53-.13-.7.08s-.15.53.06.7l3.62 2.97-3.57 2.23c-.23.14-.3.45-.15.7.1.14.25.22.42.22.1 0 .18-.02.27-.08l3.85-2.4 1.06.87c.1.04.2.1.32.1s.23-.06.32-.1l1.06-.9 3.86 2.4c.08.06.17.1.26.1.17 0 .33-.1.42-.25.15-.24.08-.55-.15-.7l-3.57-2.22 3.62-2.96c.2-.2.24-.5.07-.72z"/></svg>
+    </div>
+  </div>
+</a>
+
+
+<a class="resp-sharing-button__link" href="https://www.linkedin.com/shareArticle?url=https%3a%2f%2fgenomicafuncional.cicese.mx%2fpublication%2fmy-md-folder%2f2022-01-01_delveccio2022%2f&title=Transcriptomic%20response%20in%20thermally%20challenged%20seahorses%20Hippocampus%20erectus%3a%20The%20effect%20of%20magnitude%20and%20rate%20of%20temperature%20change" target="_blank" rel="noopener" aria-label="">
+  <div class="resp-sharing-button resp-sharing-button--linkedin resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
+    <svg version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+        <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z" />
+    </svg>
+    </div>
+  </div>
+</a>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Citar</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copiar
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Descargar
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/es/js/wowchemy.min.6816da1dce5e2821a26ab5838c507f32.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>

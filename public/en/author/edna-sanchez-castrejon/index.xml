@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edna Sanchéz Castrejón | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/en/author/edna-sanchez-castrejon/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/edna-sanchez-castrejon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/en/author/edna-sanchez-castrejon/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/en/author/edna-sanchez-castrejon/index.xml" rel="self" type="application/rss+xml" />
     <description>Edna Sanchéz Castrejón</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/en/author/edna-sanchez-castrejon/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://genomicafuncional.cicese.mx/en/author/edna-sanchez-castrejon/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Edna Sanchéz Castrejón</title>
-      <link>https://genomicafuncionallab.netlify.app/en/author/edna-sanchez-castrejon/</link>
+      <link>https://genomicafuncional.cicese.mx/en/author/edna-sanchez-castrejon/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miguel A. Tripp Valdez | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/author/miguel-a.-tripp-valdez/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/author/miguel-a.-tripp-valdez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/author/miguel-a.-tripp-valdez/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/author/miguel-a.-tripp-valdez/index.xml" rel="self" type="application/rss+xml" />
     <description>Miguel A. Tripp Valdez</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/author/miguel-a.-tripp-valdez/avatar_hue59e30bff4fce5ac0473c28c65cc1c4a_157724_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://genomicafuncional.cicese.mx/author/miguel-a.-tripp-valdez/avatar_hue59e30bff4fce5ac0473c28c65cc1c4a_157724_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Miguel A. Tripp Valdez</title>
-      <link>https://genomicafuncionallab.netlify.app/author/miguel-a.-tripp-valdez/</link>
+      <link>https://genomicafuncional.cicese.mx/author/miguel-a.-tripp-valdez/</link>
     </image>
     
     <item>
       <title>El Laboratorio de Genómica Funcional de CICESE</title>
-      <link>https://genomicafuncionallab.netlify.app/post/getting-started/</link>
+      <link>https://genomicafuncional.cicese.mx/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/post/getting-started/</guid>
+      <guid>https://genomicafuncional.cicese.mx/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -70,10 +70,20 @@
     </item>
     
     <item>
+      <title>Impacto de microplasticos en el ostión</title>
+      <link>https://genomicafuncional.cicese.mx/project/microplas/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/project/microplas/</guid>
+      <description>&lt;p&gt;La contaminación por microplásticos constituye un problema creciente en la región costera pero el impacto de la ingesta y acumulación de microplásticos en la fisiología de los organismos marinos aún permanece poco estudiada.&lt;/p&gt;
+&lt;p&gt;Este proyecto utiliza una aproximación transcriptómica para evaluar los perfiles de expresión de genes en el ostión &lt;em&gt;Crassostrea gigas&lt;/em&gt; comparando un sitio con mayor presencia de microplasticos con un sitio con menor concentración. Nuestro principal interés es estudiar los potenciales impactos en la reproducción, respuesta inmune y capacidad de detoxificación.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Análisis de Datos de Secuenciación Másiva</title>
-      <link>https://genomicafuncionallab.netlify.app/cursos/adsm/</link>
+      <link>https://genomicafuncional.cicese.mx/cursos/adsm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/cursos/adsm/</guid>
+      <guid>https://genomicafuncional.cicese.mx/cursos/adsm/</guid>
       <description>&lt;h2 id=&#34;que-se-aborda-en-el-curso&#34;&gt;¿Que se aborda en el curso?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Introducción a las tecnologias de secuenciación de segunda y tercera generación&lt;/li&gt;
@@ -90,11 +100,14 @@
     </item>
     
     <item>
-      <title>New Project</title>
-      <link>https://genomicafuncionallab.netlify.app/project/new-project/</link>
+      <title>Metales pesados y microbioma gastrointestinal de elasmobranquios.</title>
+      <link>https://genomicafuncional.cicese.mx/project/sosf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/project/new-project/</guid>
-      <description></description>
+      <guid>https://genomicafuncional.cicese.mx/project/sosf/</guid>
+      <description>&lt;p&gt;Este proyecto esta siendo financiado por la fundación &lt;a href=&#34;https://saveourseas.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Save Our Sears&lt;/a&gt; en colaboración con el &lt;a href=&#34;https://www.cicimar.ipn.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro Intersciplinario de Ciencias del Mar&lt;/a&gt; en la ciudad de La Paz, B.C.S.&lt;/p&gt;
+&lt;p&gt;La presente propuesta tiene el objetivo de investigar el microbioma gastrointestinal en un tiburón pelágico y una raya bentónico, contrastando un sitio con niveles elevados de contaminación por metales pesados y dos sitios con niveles reducidos de impacto antropogénico a lo largo de la Península de Baja California. El microbioma juega un papel fundamental en la fisiología y bienestar del hospedero al tener influencia en la absorción de nutrientes, metabolismo energético, regulación de las reservas y potenciar la protección contra patógenos y contaminantes ambientales. Por lo tanto, el presente estudio pretende investiga si el hábitat mas contaminado esta induce alteraciones negativas (disbiosis) en la diversidad del microbioma.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://saveourseas.com/project/gut-feeling-the-impact-of-heavy-metals-on-shark-microbiomes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ir a la pagina del proyecto&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

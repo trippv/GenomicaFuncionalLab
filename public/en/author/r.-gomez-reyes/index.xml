@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Gomez-Reyes | Genómica Funcional</title>
+    <link>https://genomicafuncional.cicese.mx/en/author/r.-gomez-reyes/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/en/author/r.-gomez-reyes/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Gomez-Reyes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <title>R. Gomez-Reyes</title>
+      <link>https://genomicafuncional.cicese.mx/en/author/r.-gomez-reyes/</link>
+    </image>
+    
+    <item>
+      <title>Environmental conditions drive zooplankton community structure in the epipelagic oceanic water of the southern Gulf of Mexico: A molecular approach</title>
+      <link>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_cicala2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_cicala2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epipelagic zooplankton diversity in the deep water region of the Gulf of Mexico: A metabarcoding survey</title>
+      <link>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-11-01-martinez2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-11-01-martinez2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

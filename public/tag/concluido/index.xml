@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concluido | Genómica Funcional</title>
+    <link>https://genomicafuncional.cicese.mx/tag/concluido/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/tag/concluido/index.xml" rel="self" type="application/rss+xml" />
+    <description>concluido</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language>
+    <image>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <title>concluido</title>
+      <link>https://genomicafuncional.cicese.mx/tag/concluido/</link>
+    </image>
+    
+    <item>
+      <title>Diversidad de ictioplacton y zooplancton en el Golfo de México. Una aproximación metagenética y taxonómica</title>
+      <link>https://genomicafuncional.cicese.mx/project/metabar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/project/metabar/</guid>
+      <description>&lt;p&gt;El subproyecto “Diversidad de Ictioplancton y Zooplancton en el Golfo de México” formo parte de la Línea 2 del &lt;a href=&#34;https://cigom.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIGOM&lt;/a&gt;. En este subproyecto se utilizaron herramientas moleculares de alto potencial (secuenciación masiva de genes marcadores) para establecer una línea base de la diversidad de organismos en el Golfo de México.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluación del efecto de la temperatura sobre los mecanismos moleculares y fisiológicos que regulan la reproducción de Octopus maya.</title>
+      <link>https://genomicafuncional.cicese.mx/project/omaya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://genomicafuncional.cicese.mx/project/omaya/</guid>
+      <description>&lt;p&gt;El pulpo maya &lt;em&gt;Octopus maya&lt;/em&gt; es una especie de importancia economica y con potencial acuicula. Al ser un organismo ectotérmico, la temperatura juega un papel fundamental en su éxito reproductivo. Por lo tanto, este proyecto tiene como meta comprender el papel que juegan las diversas glándulas en la regulación del éxito reproductivo y de que manera la temperatura afecta la regulación de las mismas.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

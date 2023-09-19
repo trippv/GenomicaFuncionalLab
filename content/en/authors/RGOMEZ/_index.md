@@ -27,15 +27,10 @@ interests:
 # redes sociales: solo se usara RG, ORCID, y correo
 social:
 # Correo electronico:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'miguel.tripp@gmail.com'
-  
-# google scholar
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: envelope
   icon_pack: fas
-  name: google scholar
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:rgomez41@uabc.edu.mx
+  
   
 # github
 - icon: github
@@ -45,16 +40,7 @@ social:
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
 
-# Research gate
-- icon: researchgate
-  icon_pack: fab
-  name: Reasearch Gate
-  link: "https://www.researchgate.net/profile/Miguel-Tripp"
-  
-- icon: orcid
-  icon_pack: fab
-  name: ORCID
-  link: "https://orcid.org/0000-0002-1364-6885"
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

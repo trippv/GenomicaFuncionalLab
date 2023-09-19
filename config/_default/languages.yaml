@@ -27,14 +27,14 @@ es:
         url: '#projects'
         weight: 40
       - name: Publicaciones
-        url: publication/
+        url: '#publications'
         weight: 50
       - name: Cursos
         url: cursos/
         weight: 60
-      - name: Blog
-        url: post/
-        weight: 70
+      # - name: Blog
+      #   url: post/
+      #   weight: 70
       - name: Ir al sitio de CICESE
         url: https://www.cicese.edu.mx/
         weigth: 80

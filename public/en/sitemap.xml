@@ -2,2774 +2,3057 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://genomicafuncionallab.netlify.app/en/talk/example-talk/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/talk/example-talk/"
+                href="https://genomicafuncional.cicese.mx/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/talk/example-talk/"
+                href="https://genomicafuncional.cicese.mx/en/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/"
+                href="https://genomicafuncional.cicese.mx/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/"
+                href="https://genomicafuncional.cicese.mx/en/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/event/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/event/"
+                href="https://genomicafuncional.cicese.mx/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/event/"
+                href="https://genomicafuncional.cicese.mx/en/event/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication-type/2/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication-type/2/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/publication-type/2/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-saavedra-flores/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/a.-saavedra-flores/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-saavedra-flores/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/authors/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/authors/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.e.-galindo-sanchez/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/c.e.-galindo-sanchez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/c.e.-galindo-sanchez/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.carrillo-tripp/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/j.carrillo-tripp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/j.carrillo-tripp/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.l.-duarte/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/j.l.-duarte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/j.l.-duarte/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.a.-martinez-mercado/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/m.a.-martinez-mercado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/m.a.-martinez-mercado/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-03-03_mercado2022/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2022-03-03_mercado2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-03-03_mercado2022/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/publication_types/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/publication_types/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/publication/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-rosas/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/c.-rosas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-rosas/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/d.-re-araujo/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/d.-re-araujo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/d.-re-araujo/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-lopez-landavery/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/e.-lopez-landavery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-lopez-landavery/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/f.-diaz/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/f.-diaz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/f.-diaz/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/g.-amador-cano/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/g.-amador-cano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/g.-amador-cano/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/g.-del-vecchio/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/g.-del-vecchio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/g.-del-vecchio/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_landavery2022/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2022-01-01_landavery2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_landavery2022/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.-mascaro/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/m.-mascaro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/m.-mascaro/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.a.-tripp-valdez/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/m.a.-tripp-valdez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/m.a.-tripp-valdez/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/n.-ramirez-alvarez/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/n.-ramirez-alvarez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/n.-ramirez-alvarez/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/r.gomez-reyes/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/r.gomez-reyes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/r.gomez-reyes/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_delveccio2022/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2022-01-01_delveccio2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_delveccio2022/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.m.-hereu/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/c.m.-hereu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/c.m.-hereu/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_cicala2022/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2022-01-01_cicala2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2022-01-01_cicala2022/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/f.-cicala/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/f.-cicala/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/f.-cicala/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.-robles-flores/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/j.-robles-flores/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/j.-robles-flores/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.c.-arteaga/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/m.c.-arteaga/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/m.c.-arteaga/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/p.g.-batta-lona/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/p.g.-batta-lona/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/p.g.-batta-lona/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/r.-gomez-reyes/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/r.-gomez-reyes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/r.-gomez-reyes/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/s.p.a.-jimenez-rosenberg/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/s.p.a.-jimenez-rosenberg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/s.p.a.-jimenez-rosenberg/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/s.z.-herzka/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/s.z.-herzka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/s.z.-herzka/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-11-01-martinez2021/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2021-11-01-martinez2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-11-01-martinez2021/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.-gasca-pineda/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/j.-gasca-pineda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/j.-gasca-pineda/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.a.-martinez/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/m.a.-martinez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/m.a.-martinez/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-mendoza-flores/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication-type/2/"
+                href="https://genomicafuncional.cicese.mx/author/a.-mendoza-flores/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication-type/2/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-mendoza-flores/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-mendoza-flores/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.k.-meza-buendia/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-mendoza-flores/"
+                href="https://genomicafuncional.cicese.mx/author/a.k.-meza-buendia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-mendoza-flores/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.k.-meza-buendia/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.k.-meza-buendia/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01-lopez-landavery2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.k.-meza-buendia/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2021-01-01-lopez-landavery2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.k.-meza-buendia/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01-lopez-landavery2021/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_lopez-landavery2021/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_lopez-landavery2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2021-01-01_lopez-landavery2021/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2021-01-01_lopez-landavery2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_lopez-landavery2021/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_lopez-landavery2021/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/authors/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-caamal-monsreal/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/authors/"
+                href="https://genomicafuncional.cicese.mx/author/c.-caamal-monsreal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/authors/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-caamal-monsreal/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-caamal-monsreal/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.j.-band-schmidt/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-caamal-monsreal/"
+                href="https://genomicafuncional.cicese.mx/author/c.j.-band-schmidt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-caamal-monsreal/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.j.-band-schmidt/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-rosas/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/d.-chavez-garcia/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-rosas/"
+                href="https://genomicafuncional.cicese.mx/author/d.-chavez-garcia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-rosas/"
+                href="https://genomicafuncional.cicese.mx/en/author/d.-chavez-garcia/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.e.-galindo-sanchez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/d.-re/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.e.-galindo-sanchez/"
+                href="https://genomicafuncional.cicese.mx/author/d.-re/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.e.-galindo-sanchez/"
+                href="https://genomicafuncional.cicese.mx/en/author/d.-re/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.j.-band-schmidt/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/d.-tovar-ramirez/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.j.-band-schmidt/"
+                href="https://genomicafuncional.cicese.mx/author/d.-tovar-ramirez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.j.-band-schmidt/"
+                href="https://genomicafuncional.cicese.mx/en/author/d.-tovar-ramirez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/d.-chavez-garcia/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-carpizo-ituarte/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/d.-chavez-garcia/"
+                href="https://genomicafuncional.cicese.mx/author/e.-carpizo-ituarte/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/d.-chavez-garcia/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-carpizo-ituarte/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/d.-re/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.a.-lopez-landavery/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/d.-re/"
+                href="https://genomicafuncional.cicese.mx/author/e.a.-lopez-landavery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/d.-re/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.a.-lopez-landavery/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/d.-re-araujo/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.j.-carpizo-ituarte/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/d.-re-araujo/"
+                href="https://genomicafuncional.cicese.mx/author/e.j.-carpizo-ituarte/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/d.-re-araujo/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.j.-carpizo-ituarte/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/d.-tovar-ramirez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/f.-lafarga-de-la-cruz/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/d.-tovar-ramirez/"
+                href="https://genomicafuncional.cicese.mx/author/f.-lafarga-de-la-cruz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/d.-tovar-ramirez/"
+                href="https://genomicafuncional.cicese.mx/en/author/f.-lafarga-de-la-cruz/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-lopez-landavery/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/f.e.-hernandez-sandoval/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-lopez-landavery/"
+                href="https://genomicafuncional.cicese.mx/author/f.e.-hernandez-sandoval/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-lopez-landavery/"
+                href="https://genomicafuncional.cicese.mx/en/author/f.e.-hernandez-sandoval/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.a.-lopez-landavery/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/f.l.-d.-la-cruz/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.a.-lopez-landavery/"
+                href="https://genomicafuncional.cicese.mx/author/f.l.-d.-la-cruz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.a.-lopez-landavery/"
+                href="https://genomicafuncional.cicese.mx/en/author/f.l.-d.-la-cruz/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.j.-carpizo-ituarte/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/g.-rodriguez-fuentes/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.j.-carpizo-ituarte/"
+                href="https://genomicafuncional.cicese.mx/author/g.-rodriguez-fuentes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.j.-carpizo-ituarte/"
+                href="https://genomicafuncional.cicese.mx/en/author/g.-rodriguez-fuentes/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/f.-cicala/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_tripp-valdez202162/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/f.-cicala/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2021-01-01_tripp-valdez202162/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/f.-cicala/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_tripp-valdez202162/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/f.-diaz/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/i.-leyva-valencia/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/f.-diaz/"
+                href="https://genomicafuncional.cicese.mx/author/i.-leyva-valencia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/f.-diaz/"
+                href="https://genomicafuncional.cicese.mx/en/author/i.-leyva-valencia/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/f.-lafarga-de-la-cruz/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/i.-trejo-escamilla/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/f.-lafarga-de-la-cruz/"
+                href="https://genomicafuncional.cicese.mx/author/i.-trejo-escamilla/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/f.-lafarga-de-la-cruz/"
+                href="https://genomicafuncional.cicese.mx/en/author/i.-trejo-escamilla/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/f.e.-hernandez-sandoval/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.j.-bustillos-guzman/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/f.e.-hernandez-sandoval/"
+                href="https://genomicafuncional.cicese.mx/author/j.j.-bustillos-guzman/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/f.e.-hernandez-sandoval/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.j.-bustillos-guzman/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/f.l.-d.-la-cruz/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.m.-hernandez-ayon/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/f.l.-d.-la-cruz/"
+                href="https://genomicafuncional.cicese.mx/author/j.m.-hernandez-ayon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/f.l.-d.-la-cruz/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.m.-hernandez-ayon/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/g.-rodriguez-fuentes/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.p.-lazo/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/g.-rodriguez-fuentes/"
+                href="https://genomicafuncional.cicese.mx/author/j.p.-lazo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/g.-rodriguez-fuentes/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.p.-lazo/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_tripp-valdez202162/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/k.d.-chacon-ponce/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2021-01-01_tripp-valdez202162/"
+                href="https://genomicafuncional.cicese.mx/author/k.d.-chacon-ponce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_tripp-valdez202162/"
+                href="https://genomicafuncional.cicese.mx/en/author/k.d.-chacon-ponce/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/i.-leyva-valencia/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/l.-perez-carrasco/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/i.-leyva-valencia/"
+                href="https://genomicafuncional.cicese.mx/author/l.-perez-carrasco/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/i.-leyva-valencia/"
+                href="https://genomicafuncional.cicese.mx/en/author/l.-perez-carrasco/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/i.-trejo-escamilla/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.-piu/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/i.-trejo-escamilla/"
+                href="https://genomicafuncional.cicese.mx/author/m.-piu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/i.-trejo-escamilla/"
+                href="https://genomicafuncional.cicese.mx/en/author/m.-piu/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.j.-bustillos-guzman/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/o.e.-juarez/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.j.-bustillos-guzman/"
+                href="https://genomicafuncional.cicese.mx/author/o.e.-juarez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.j.-bustillos-guzman/"
+                href="https://genomicafuncional.cicese.mx/en/author/o.e.-juarez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.m.-hernandez-ayon/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/r.-delgado-vega/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.m.-hernandez-ayon/"
+                href="https://genomicafuncional.cicese.mx/author/r.-delgado-vega/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.m.-hernandez-ayon/"
+                href="https://genomicafuncional.cicese.mx/en/author/r.-delgado-vega/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.p.-lazo/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.p.-lazo/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2021-01-01_mendoza-flores202168/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.p.-lazo/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/k.d.-chacon-ponce/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_juarez2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/k.d.-chacon-ponce/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2021-01-01_juarez2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/k.d.-chacon-ponce/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_juarez2021/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/l.-perez-carrasco/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_meza-buendia2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/l.-perez-carrasco/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2021-01-01_meza-buendia2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/l.-perez-carrasco/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_meza-buendia2021/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.-piu/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/z.-garcia-esquivel/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.-piu/"
+                href="https://genomicafuncional.cicese.mx/author/z.-garcia-esquivel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.-piu/"
+                href="https://genomicafuncional.cicese.mx/en/author/z.-garcia-esquivel/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.a.-tripp-valdez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/z.-garcia_esquivel/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.a.-tripp-valdez/"
+                href="https://genomicafuncional.cicese.mx/author/z.-garcia_esquivel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.a.-tripp-valdez/"
+                href="https://genomicafuncional.cicese.mx/en/author/z.-garcia_esquivel/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/o.e.-juarez/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/o.e.-juarez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/o.e.-juarez/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication_types/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication_types/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/r.-delgado-vega/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/r.-delgado-vega/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/r.-delgado-vega/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2021-01-01_mendoza-flores202168/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_juarez2021/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2021-01-01_juarez2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_juarez2021/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_meza-buendia2021/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2021-01-01_meza-buendia2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_meza-buendia2021/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/z.-garcia-esquivel/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/z.-garcia-esquivel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/z.-garcia-esquivel/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/tag/academic/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/categories/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/categories/"
+                href="https://genomicafuncional.cicese.mx/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/categories/"
+                href="https://genomicafuncional.cicese.mx/en/categories/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/nelson-bighetti/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/clara-elizabeth-galindo-sanchez/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/nelson-bighetti/"
+                href="https://genomicafuncional.cicese.mx/author/clara-elizabeth-galindo-sanchez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/nelson-bighetti/"
+                href="https://genomicafuncional.cicese.mx/en/author/clara-elizabeth-galindo-sanchez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/post/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/post/"
+                href="https://genomicafuncional.cicese.mx/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/post/"
+                href="https://genomicafuncional.cicese.mx/en/post/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/tags/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/tags/"
+                href="https://genomicafuncional.cicese.mx/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/tags/"
+                href="https://genomicafuncional.cicese.mx/en/tags/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/post/getting-started/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/post/getting-started/"
+                href="https://genomicafuncional.cicese.mx/post/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/post/getting-started/"
+                href="https://genomicafuncional.cicese.mx/en/post/getting-started/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/tag/plot/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/category/r/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/tag/r-markdown/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/tag/regression/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.m.-hereu/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-delgadillo-nuno/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.m.-hereu/"
+                href="https://genomicafuncional.cicese.mx/author/e.-delgadillo-nuno/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.m.-hereu/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-delgadillo-nuno/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-delgadillo-nuno/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-delgadillo-nuno/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-delgadillo-nuno/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.a.-delgadillo-nuno/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/"
+                href="https://genomicafuncional.cicese.mx/author/m.a.-delgadillo-nuno/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2020-01-01_delgadillo-nuno202089/"
+                href="https://genomicafuncional.cicese.mx/en/author/m.a.-delgadillo-nuno/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.a.-delgadillo-nuno/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.a.-linan-cabello/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.a.-delgadillo-nuno/"
+                href="https://genomicafuncional.cicese.mx/author/m.a.-linan-cabello/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.a.-delgadillo-nuno/"
+                href="https://genomicafuncional.cicese.mx/en/author/m.a.-linan-cabello/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.a.-linan-cabello/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2020-01-01_hereu2020665/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.a.-linan-cabello/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2020-01-01_hereu2020665/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.a.-linan-cabello/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2020-01-01_hereu2020665/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.c.-arteaga/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.c.-arteaga/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.c.-arteaga/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/p.g.-batta-lona/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/p.g.-batta-lona/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/p.g.-batta-lona/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/s.p.a.-jimenez-rosenberg/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/s.p.a.-jimenez-rosenberg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/s.p.a.-jimenez-rosenberg/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/s.z.-herzka/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/s.z.-herzka/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/s.z.-herzka/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2020-01-01_hereu2020665/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2020-01-01_hereu2020665/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2020-01-01_hereu2020665/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/post/writing-technical-content/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/post/jupyter/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/slides/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/slides/"
+                href="https://genomicafuncional.cicese.mx/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/slides/"
+                href="https://genomicafuncional.cicese.mx/en/slides/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/slides/example/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/slides/example/"
+                href="https://genomicafuncional.cicese.mx/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/slides/example/"
+                href="https://genomicafuncional.cicese.mx/en/slides/example/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-lago-leston/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-lago-leston/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-lago-leston/"
+                href="https://genomicafuncional.cicese.mx/author/a.-lago-leston/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-lago-leston/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-lago-leston/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-olivares/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-olivares/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-olivares/"
+                href="https://genomicafuncional.cicese.mx/author/a.-olivares/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-olivares/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-olivares/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-portillo-lopez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-portillo-lopez/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-portillo-lopez/"
+                href="https://genomicafuncional.cicese.mx/author/a.-portillo-lopez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-portillo-lopez/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-portillo-lopez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.d.-cosmo/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.d.-cosmo/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.d.-cosmo/"
+                href="https://genomicafuncional.cicese.mx/author/a.d.-cosmo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.d.-cosmo/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.d.-cosmo/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_gonzlez-martinez2019557/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-galindo-sanchez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-galindo-sanchez/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-galindo-sanchez/"
+                href="https://genomicafuncional.cicese.mx/author/c.-galindo-sanchez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-galindo-sanchez/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-galindo-sanchez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-paniagua-chavez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-paniagua-chavez/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-paniagua-chavez/"
+                href="https://genomicafuncional.cicese.mx/author/c.-paniagua-chavez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-paniagua-chavez/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-paniagua-chavez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-ventura-lopez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-ventura-lopez/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-ventura-lopez/"
+                href="https://genomicafuncional.cicese.mx/author/c.-ventura-lopez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-ventura-lopez/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-ventura-lopez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_gonzalez-martinez2019569/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_batta-lona2019375/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_batta-lona2019375/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_batta-lona2019375/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_batta-lona2019375/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_batta-lona2019375/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_batta-lona2019375/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-larios-soriano/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-larios-soriano/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-larios-soriano/"
+                href="https://genomicafuncional.cicese.mx/author/e.-larios-soriano/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-larios-soriano/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-larios-soriano/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/f.-lafarga/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/f.-lafarga/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/f.-lafarga/"
+                href="https://genomicafuncional.cicese.mx/author/f.-lafarga/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/f.-lafarga/"
+                href="https://genomicafuncional.cicese.mx/en/author/f.-lafarga/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/g.-amador-cano/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/g.d.-vecchio/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/g.-amador-cano/"
+                href="https://genomicafuncional.cicese.mx/author/g.d.-vecchio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/g.-amador-cano/"
+                href="https://genomicafuncional.cicese.mx/en/author/g.d.-vecchio/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/g.d.-vecchio/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/i.-giffard-mena/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/g.d.-vecchio/"
+                href="https://genomicafuncional.cicese.mx/author/i.-giffard-mena/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/g.d.-vecchio/"
+                href="https://genomicafuncional.cicese.mx/en/author/i.-giffard-mena/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/i.-giffard-mena/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/i.-montelongo/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/i.-giffard-mena/"
+                href="https://genomicafuncional.cicese.mx/author/i.-montelongo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/i.-giffard-mena/"
+                href="https://genomicafuncional.cicese.mx/en/author/i.-montelongo/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/i.-montelongo/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.-pantoja-perez/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/i.-montelongo/"
+                href="https://genomicafuncional.cicese.mx/author/j.-pantoja-perez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/i.-montelongo/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.-pantoja-perez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.-pantoja-perez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/l.-lopez-galindo/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.-pantoja-perez/"
+                href="https://genomicafuncional.cicese.mx/author/l.-lopez-galindo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.-pantoja-perez/"
+                href="https://genomicafuncional.cicese.mx/en/author/l.-lopez-galindo/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.-robles-flores/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/n.-alejandri/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.-robles-flores/"
+                href="https://genomicafuncional.cicese.mx/author/n.-alejandri/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.-robles-flores/"
+                href="https://genomicafuncional.cicese.mx/en/author/n.-alejandri/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/l.-lopez-galindo/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/o.h.-avila-poveda/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/l.-lopez-galindo/"
+                href="https://genomicafuncional.cicese.mx/author/o.h.-avila-poveda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/l.-lopez-galindo/"
+                href="https://genomicafuncional.cicese.mx/en/author/o.h.-avila-poveda/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/n.-alejandri/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_juarez2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/n.-alejandri/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_juarez2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/n.-alejandri/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_juarez2019/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/n.-ramirez-alvarez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/r.j.e.-gomez-reyes/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/n.-ramirez-alvarez/"
+                href="https://genomicafuncional.cicese.mx/author/r.j.e.-gomez-reyes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/n.-ramirez-alvarez/"
+                href="https://genomicafuncional.cicese.mx/en/author/r.j.e.-gomez-reyes/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/o.h.-avila-poveda/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_lopez-galindo2019437/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/o.h.-avila-poveda/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_lopez-galindo2019437/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/o.h.-avila-poveda/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_lopez-galindo2019437/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_juarez2019/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/s.-gonzalez-martinez/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_juarez2019/"
+                href="https://genomicafuncional.cicese.mx/author/s.-gonzalez-martinez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_juarez2019/"
+                href="https://genomicafuncional.cicese.mx/en/author/s.-gonzalez-martinez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/r.j.e.-gomez-reyes/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/s.-tapia-morales/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/r.j.e.-gomez-reyes/"
+                href="https://genomicafuncional.cicese.mx/author/s.-tapia-morales/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/r.j.e.-gomez-reyes/"
+                href="https://genomicafuncional.cicese.mx/en/author/s.-tapia-morales/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-galindo2019437/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_lopez-galindo2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_lopez-galindo2019437/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_lopez-galindo2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-galindo2019437/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_lopez-galindo2019/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/s.-gonzalez-martinez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_lopez-landavery2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/s.-gonzalez-martinez/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_lopez-landavery2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/s.-gonzalez-martinez/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_lopez-landavery2019/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/s.-tapia-morales/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_tapia-morales20199/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/s.-tapia-morales/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2019-01-01_tapia-morales20199/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/s.-tapia-morales/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2019-01-01_tapia-morales20199/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-galindo2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_lopez-galindo2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-galindo2019/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-landavery2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_lopez-landavery2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_lopez-landavery2019/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_tapia-morales20199/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2019-01-01_tapia-morales20199/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2019-01-01_tapia-morales20199/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-almazan-becerril/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-almazan-becerril/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-almazan-becerril/"
+                href="https://genomicafuncional.cicese.mx/author/a.-almazan-becerril/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-almazan-becerril/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-almazan-becerril/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-cembella/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-cembella/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-cembella/"
+                href="https://genomicafuncional.cicese.mx/author/a.-cembella/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-cembella/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-cembella/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_paredes-banda2018/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_paredes-banda2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2018-01-01_paredes-banda2018/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2018-01-01_paredes-banda2018/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_paredes-banda2018/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_paredes-banda2018/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/b.-vadopalas/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/b.-vadopalas/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/b.-vadopalas/"
+                href="https://genomicafuncional.cicese.mx/author/b.-vadopalas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/b.-vadopalas/"
+                href="https://genomicafuncional.cicese.mx/en/author/b.-vadopalas/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-garcia-mendoza/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-garcia-mendoza/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-garcia-mendoza/"
+                href="https://genomicafuncional.cicese.mx/author/e.-garcia-mendoza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-garcia-mendoza/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-garcia-mendoza/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-ponce-rivas/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-ponce-rivas/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-ponce-rivas/"
+                href="https://genomicafuncional.cicese.mx/author/e.-ponce-rivas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-ponce-rivas/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-ponce-rivas/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/f.-camarena-rosales/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/f.-camarena-rosales/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/f.-camarena-rosales/"
+                href="https://genomicafuncional.cicese.mx/author/f.-camarena-rosales/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/f.-camarena-rosales/"
+                href="https://genomicafuncional.cicese.mx/en/author/f.-camarena-rosales/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_juarez2018109/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_juarez2018109/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2018-01-01_juarez2018109/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2018-01-01_juarez2018109/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_juarez2018109/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_juarez2018109/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2018-01-01_mendoza-flores2018/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2018-01-01_mendoza-flores2018/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.-blanco/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.-blanco/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.-blanco/"
+                href="https://genomicafuncional.cicese.mx/author/j.-blanco/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.-blanco/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.-blanco/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/k.-nambo/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/k.-nambo/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/k.-nambo/"
+                href="https://genomicafuncional.cicese.mx/author/k.-nambo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/k.-nambo/"
+                href="https://genomicafuncional.cicese.mx/en/author/k.-nambo/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/l.-arena/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/l.-arena/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/l.-arena/"
+                href="https://genomicafuncional.cicese.mx/author/l.-arena/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/l.-arena/"
+                href="https://genomicafuncional.cicese.mx/en/author/l.-arena/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/l.-enriquez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/l.-enriquez/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/l.-enriquez/"
+                href="https://genomicafuncional.cicese.mx/author/l.-enriquez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/l.-enriquez/"
+                href="https://genomicafuncional.cicese.mx/en/author/l.-enriquez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/p.-paredes-banda/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/p.-paredes-banda/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/p.-paredes-banda/"
+                href="https://genomicafuncional.cicese.mx/author/p.-paredes-banda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/p.-paredes-banda/"
+                href="https://genomicafuncional.cicese.mx/en/author/p.-paredes-banda/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_juarez20181/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_juarez20181/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2018-01-01_juarez20181/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2018-01-01_juarez20181/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_juarez20181/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_juarez20181/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-licea/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-licea/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-licea/"
+                href="https://genomicafuncional.cicese.mx/author/a.-licea/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-licea/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-licea/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-sanchez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-sanchez/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-sanchez/"
+                href="https://genomicafuncional.cicese.mx/author/a.-sanchez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-sanchez/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-sanchez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-sanchez-garcia/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-sanchez-garcia/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-sanchez-garcia/"
+                href="https://genomicafuncional.cicese.mx/author/a.-sanchez-garcia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-sanchez-garcia/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-sanchez-garcia/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.d.-re/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.d.-re/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.d.-re/"
+                href="https://genomicafuncional.cicese.mx/author/a.d.-re/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.d.-re/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.d.-re/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.m.-ibarra/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.m.-ibarra/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.m.-ibarra/"
+                href="https://genomicafuncional.cicese.mx/author/a.m.-ibarra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.m.-ibarra/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.m.-ibarra/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-escobedo-fregoso/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-escobedo-fregoso/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-escobedo-fregoso/"
+                href="https://genomicafuncional.cicese.mx/author/c.-escobedo-fregoso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-escobedo-fregoso/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-escobedo-fregoso/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-carpizo-ituarte/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-lopez/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-carpizo-ituarte/"
+                href="https://genomicafuncional.cicese.mx/author/e.-lopez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-carpizo-ituarte/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-lopez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-lopez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-norena-barroso/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-lopez/"
+                href="https://genomicafuncional.cicese.mx/author/e.-norena-barroso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-lopez/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-norena-barroso/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-norena-barroso/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/f.g.-arcos/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-norena-barroso/"
+                href="https://genomicafuncional.cicese.mx/author/f.g.-arcos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-norena-barroso/"
+                href="https://genomicafuncional.cicese.mx/en/author/f.g.-arcos/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/f.g.-arcos/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/i.s.-racotta/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/f.g.-arcos/"
+                href="https://genomicafuncional.cicese.mx/author/i.s.-racotta/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/f.g.-arcos/"
+                href="https://genomicafuncional.cicese.mx/en/author/i.s.-racotta/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/i.s.-racotta/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/k.-ortega/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/i.s.-racotta/"
+                href="https://genomicafuncional.cicese.mx/author/k.-ortega/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/i.s.-racotta/"
+                href="https://genomicafuncional.cicese.mx/en/author/k.-ortega/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/k.-ortega/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.-gonzalez/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/k.-ortega/"
+                href="https://genomicafuncional.cicese.mx/author/m.-gonzalez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/k.-ortega/"
+                href="https://genomicafuncional.cicese.mx/en/author/m.-gonzalez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.-gonzalez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/o.-juarez/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.-gonzalez/"
+                href="https://genomicafuncional.cicese.mx/author/o.-juarez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.-gonzalez/"
+                href="https://genomicafuncional.cicese.mx/en/author/o.-juarez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.-mascaro/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/p.e.-galindo-torres/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.-mascaro/"
+                href="https://genomicafuncional.cicese.mx/author/p.e.-galindo-torres/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.-mascaro/"
+                href="https://genomicafuncional.cicese.mx/en/author/p.e.-galindo-torres/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/o.-juarez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2017-01-01_diaz2017219/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/o.-juarez/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2017-01-01_diaz2017219/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/o.-juarez/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2017-01-01_diaz2017219/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/p.e.-galindo-torres/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/r.-llera-herrera/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/p.e.-galindo-torres/"
+                href="https://genomicafuncional.cicese.mx/author/r.-llera-herrera/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/p.e.-galindo-torres/"
+                href="https://genomicafuncional.cicese.mx/en/author/r.-llera-herrera/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_diaz2017219/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2017-01-01_diaz2017219/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_diaz2017219/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/r.-llera-herrera/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/r.-llera-herrera/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2017-01-01_ventura-lopez2017164/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/r.-llera-herrera/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_sanchez-garcia2017574/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2017-01-01_ventura-lopez2017164/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2017-01-01_ventura-lopez2017164/"
-                />
-  </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/project/microplas/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/clara-elizabeth-galindo-sanchez/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/project/microplas/"
+                href="https://genomicafuncional.cicese.mx/author/clara-elizabeth-galindo-sanchez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/project/microplas/"
+                href="https://genomicafuncional.cicese.mx/en/author/clara-elizabeth-galindo-sanchez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/project/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/claudia-ventura-lopez/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/project/"
+                href="https://genomicafuncional.cicese.mx/author/claudia-ventura-lopez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/project/"
+                href="https://genomicafuncional.cicese.mx/en/author/claudia-ventura-lopez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-herrera-estrella/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/tag/curso/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/tag/curso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/tag/curso/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/esanche/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/esanche/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/esanche/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/project/microplas/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/project/microplas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/project/microplas/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/miguel-a.-tripp-valdez/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/author/miguel-a.-tripp-valdez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/author/miguel-a.-tripp-valdez/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/project/"
+                />
+  </url><url>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-herrera-estrella/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-herrera-estrella/"
+                href="https://genomicafuncional.cicese.mx/author/a.-herrera-estrella/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-herrera-estrella/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-herrera-estrella/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.l.-sanchez-lizarraga/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.l.-sanchez-lizarraga/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.l.-sanchez-lizarraga/"
+                href="https://genomicafuncional.cicese.mx/author/a.l.-sanchez-lizarraga/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.l.-sanchez-lizarraga/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.l.-sanchez-lizarraga/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/d.-moreno-sierra/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/d.-moreno-sierra/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/d.-moreno-sierra/"
+                href="https://genomicafuncional.cicese.mx/author/d.-moreno-sierra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/d.-moreno-sierra/"
+                href="https://genomicafuncional.cicese.mx/en/author/d.-moreno-sierra/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_juarez201639/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2016-01-01_juarez201639/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2016-01-01_juarez201639/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2016-01-01_juarez201639/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_juarez201639/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2016-01-01_juarez201639/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso2016/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.f.-lopez-hernandez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.f.-lopez-hernandez/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.f.-lopez-hernandez/"
+                href="https://genomicafuncional.cicese.mx/author/j.f.-lopez-hernandez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.f.-lopez-hernandez/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.f.-lopez-hernandez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.m.-villalobos-escobedo/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.m.-villalobos-escobedo/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.m.-villalobos-escobedo/"
+                href="https://genomicafuncional.cicese.mx/author/j.m.-villalobos-escobedo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.m.-villalobos-escobedo/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.m.-villalobos-escobedo/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/l.a.-nunez-moreno/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/l.a.-nunez-moreno/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/l.a.-nunez-moreno/"
+                href="https://genomicafuncional.cicese.mx/author/l.a.-nunez-moreno/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/l.a.-nunez-moreno/"
+                href="https://genomicafuncional.cicese.mx/en/author/l.a.-nunez-moreno/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/l.l.-jacobo/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/l.l.-jacobo/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/l.l.-jacobo/"
+                href="https://genomicafuncional.cicese.mx/author/l.l.-jacobo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/l.l.-jacobo/"
+                href="https://genomicafuncional.cicese.mx/en/author/l.l.-jacobo/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.-paolinelli-alfonso/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.-paolinelli-alfonso/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.-paolinelli-alfonso/"
+                href="https://genomicafuncional.cicese.mx/author/m.-paolinelli-alfonso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.-paolinelli-alfonso/"
+                href="https://genomicafuncional.cicese.mx/en/author/m.-paolinelli-alfonso/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/p.-rolshausen/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/p.-rolshausen/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/p.-rolshausen/"
+                href="https://genomicafuncional.cicese.mx/author/p.-rolshausen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/p.-rolshausen/"
+                href="https://genomicafuncional.cicese.mx/en/author/p.-rolshausen/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_jacobo2016327/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2016-01-01_jacobo2016327/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2016-01-01_jacobo2016327/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2016-01-01_jacobo2016327/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_jacobo2016327/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2016-01-01_jacobo2016327/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2016-01-01_paolinelli-alfonso201682/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/r.-hernandez-martinez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/r.-hernandez-martinez/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/r.-hernandez-martinez/"
+                href="https://genomicafuncional.cicese.mx/author/r.-hernandez-martinez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/r.-hernandez-martinez/"
+                href="https://genomicafuncional.cicese.mx/en/author/r.-hernandez-martinez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/v.-hau/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/v.-hau/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/v.-hau/"
+                href="https://genomicafuncional.cicese.mx/author/v.-hau/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/v.-hau/"
+                href="https://genomicafuncional.cicese.mx/en/author/v.-hau/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-salas/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-salas/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-salas/"
+                href="https://genomicafuncional.cicese.mx/author/a.-salas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-salas/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-salas/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-denisse-re/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-denisse-re/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-denisse-re/"
+                href="https://genomicafuncional.cicese.mx/author/a.-denisse-re/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-denisse-re/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-denisse-re/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.m.-sanchez-garcia/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.m.-sanchez-garcia/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.m.-sanchez-garcia/"
+                href="https://genomicafuncional.cicese.mx/author/a.m.-sanchez-garcia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.m.-sanchez-garcia/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.m.-sanchez-garcia/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_diaz2015133/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2015-01-01_diaz2015133/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2015-01-01_diaz2015133/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2015-01-01_diaz2015133/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_diaz2015133/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2015-01-01_diaz2015133/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-camaal-monsreal/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-camaal-monsreal/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-camaal-monsreal/"
+                href="https://genomicafuncional.cicese.mx/author/c.-camaal-monsreal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-camaal-monsreal/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-camaal-monsreal/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_juarez201571/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2015-01-01_juarez201571/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2015-01-01_juarez201571/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2015-01-01_juarez201571/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_juarez201571/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2015-01-01_juarez201571/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/k.-paschke/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/k.-paschke/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/k.-paschke/"
+                href="https://genomicafuncional.cicese.mx/author/k.-paschke/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/k.-paschke/"
+                href="https://genomicafuncional.cicese.mx/en/author/k.-paschke/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.a.-gonzalez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.a.-gonzalez/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.a.-gonzalez/"
+                href="https://genomicafuncional.cicese.mx/author/m.a.-gonzalez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.a.-gonzalez/"
+                href="https://genomicafuncional.cicese.mx/en/author/m.a.-gonzalez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/s.-padilla-ramirez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/s.-padilla-ramirez/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/s.-padilla-ramirez/"
+                href="https://genomicafuncional.cicese.mx/author/s.-padilla-ramirez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/s.-padilla-ramirez/"
+                href="https://genomicafuncional.cicese.mx/en/author/s.-padilla-ramirez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_padilla-ramirez201589/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2015-01-01_padilla-ramirez201589/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2015-01-01_padilla-ramirez201589/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2015-01-01_padilla-ramirez201589/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2015-01-01_padilla-ramirez201589/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2015-01-01_padilla-ramirez201589/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-sanchez-zamora/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-sanchez-zamora/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-sanchez-zamora/"
+                href="https://genomicafuncional.cicese.mx/author/a.-sanchez-zamora/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-sanchez-zamora/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-sanchez-zamora/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.e.-galindosanchez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.e.-galindosanchez/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.e.-galindosanchez/"
+                href="https://genomicafuncional.cicese.mx/author/c.e.-galindosanchez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.e.-galindosanchez/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.e.-galindosanchez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-sanchez-castrejon/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-sanchez-castrejon/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-sanchez-castrejon/"
+                href="https://genomicafuncional.cicese.mx/author/e.-sanchez-castrejon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-sanchez-castrejon/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-sanchez-castrejon/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2014-01-01_salas2014239/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2014-01-01_salas2014239/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2014-01-01_salas2014239/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2014-01-01_salas2014239/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2014-01-01_salas2014239/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2014-01-01_salas2014239/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/a.-huvet/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/a.-huvet/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/a.-huvet/"
+                href="https://genomicafuncional.cicese.mx/author/a.-huvet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/a.-huvet/"
+                href="https://genomicafuncional.cicese.mx/en/author/a.-huvet/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-corporeau/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-corporeau/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-corporeau/"
+                href="https://genomicafuncional.cicese.mx/author/c.-corporeau/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-corporeau/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-corporeau/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-quere/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-quere/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-quere/"
+                href="https://genomicafuncional.cicese.mx/author/c.-quere/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-quere/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-quere/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/e.-guevelou/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/e.-guevelou/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/e.-guevelou/"
+                href="https://genomicafuncional.cicese.mx/author/e.-guevelou/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/e.-guevelou/"
+                href="https://genomicafuncional.cicese.mx/en/author/e.-guevelou/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.-y.-daniel/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.-y.-daniel/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.-y.-daniel/"
+                href="https://genomicafuncional.cicese.mx/author/j.-y.-daniel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.-y.-daniel/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.-y.-daniel/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.-milan/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.-milan/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.-milan/"
+                href="https://genomicafuncional.cicese.mx/author/m.-milan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.-milan/"
+                href="https://genomicafuncional.cicese.mx/en/author/m.-milan/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/p.-boudry/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/p.-boudry/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/p.-boudry/"
+                href="https://genomicafuncional.cicese.mx/author/p.-boudry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/p.-boudry/"
+                href="https://genomicafuncional.cicese.mx/en/author/p.-boudry/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2013-01-01_guevelou2013/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2013-01-01_guevelou2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2013-01-01_guevelou2013/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2013-01-01_guevelou2013/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2013-01-01_guevelou2013/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2013-01-01_guevelou2013/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/v.-quillien/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/v.-quillien/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/v.-quillien/"
+                href="https://genomicafuncional.cicese.mx/author/v.-quillien/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/v.-quillien/"
+                href="https://genomicafuncional.cicese.mx/en/author/v.-quillien/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2010-01-01_hernandez-ibarra2010476/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.l.-ramirez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.l.-ramirez/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.l.-ramirez/"
+                href="https://genomicafuncional.cicese.mx/author/j.l.-ramirez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.l.-ramirez/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.l.-ramirez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/n.k.-hernandez-ibarra/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/n.k.-hernandez-ibarra/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/n.k.-hernandez-ibarra/"
+                href="https://genomicafuncional.cicese.mx/author/n.k.-hernandez-ibarra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/n.k.-hernandez-ibarra/"
+                href="https://genomicafuncional.cicese.mx/en/author/n.k.-hernandez-ibarra/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/p.-cruz/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/p.-cruz/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/p.-cruz/"
+                href="https://genomicafuncional.cicese.mx/author/p.-cruz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/p.-cruz/"
+                href="https://genomicafuncional.cicese.mx/en/author/p.-cruz/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/r.m.-morelos/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/r.m.-morelos/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/r.m.-morelos/"
+                href="https://genomicafuncional.cicese.mx/author/r.m.-morelos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/r.m.-morelos/"
+                href="https://genomicafuncional.cicese.mx/en/author/r.m.-morelos/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/s.-avila/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/s.-avila/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/s.-avila/"
+                href="https://genomicafuncional.cicese.mx/author/s.-avila/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/s.-avila/"
+                href="https://genomicafuncional.cicese.mx/en/author/s.-avila/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/p.m.-gaffney/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/p.m.-gaffney/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/p.m.-gaffney/"
+                href="https://genomicafuncional.cicese.mx/author/p.m.-gaffney/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/p.m.-gaffney/"
+                href="https://genomicafuncional.cicese.mx/en/author/p.m.-gaffney/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2009-01-01_varney2009855/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2009-01-01_varney2009855/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2009-01-01_varney2009855/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2009-01-01_varney2009855/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2009-01-01_varney2009855/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2009-01-01_varney2009855/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/r.l.-varney/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/r.l.-varney/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/r.l.-varney/"
+                href="https://genomicafuncional.cicese.mx/author/r.l.-varney/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/r.l.-varney/"
+                href="https://genomicafuncional.cicese.mx/en/author/r.l.-varney/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2008-01-01_galindo-sanchez2008721/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.i.-perez-rostro/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.i.-perez-rostro/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.i.-perez-rostro/"
+                href="https://genomicafuncional.cicese.mx/author/c.i.-perez-rostro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.i.-perez-rostro/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.i.-perez-rostro/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.-candela/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.-candela/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.-candela/"
+                href="https://genomicafuncional.cicese.mx/author/j.-candela/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.-candela/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.-candela/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/j.-de-la-rosa-velez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/j.-de-la-rosa-velez/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/j.-de-la-rosa-velez/"
+                href="https://genomicafuncional.cicese.mx/author/j.-de-la-rosa-velez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/j.-de-la-rosa-velez/"
+                href="https://genomicafuncional.cicese.mx/en/author/j.-de-la-rosa-velez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/c.-rico/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/c.-rico/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/c.-rico/"
+                href="https://genomicafuncional.cicese.mx/author/c.-rico/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/c.-rico/"
+                href="https://genomicafuncional.cicese.mx/en/author/c.-rico/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/d.-aurioles-gamboa/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/d.-aurioles-gamboa/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/d.-aurioles-gamboa/"
+                href="https://genomicafuncional.cicese.mx/author/d.-aurioles-gamboa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/d.-aurioles-gamboa/"
+                href="https://genomicafuncional.cicese.mx/en/author/d.-aurioles-gamboa/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/f.d.-hernandez-velazquez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/f.d.-hernandez-velazquez/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/f.d.-hernandez-velazquez/"
+                href="https://genomicafuncional.cicese.mx/author/f.d.-hernandez-velazquez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/f.d.-hernandez-velazquez/"
+                href="https://genomicafuncional.cicese.mx/en/author/f.d.-hernandez-velazquez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/g.-fiore-amaral/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/g.-fiore-amaral/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/g.-fiore-amaral/"
+                href="https://genomicafuncional.cicese.mx/author/g.-fiore-amaral/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/g.-fiore-amaral/"
+                href="https://genomicafuncional.cicese.mx/en/author/g.-fiore-amaral/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/g.-mendoza-carrion/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/g.-mendoza-carrion/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/g.-mendoza-carrion/"
+                href="https://genomicafuncional.cicese.mx/author/g.-mendoza-carrion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/g.-mendoza-carrion/"
+                href="https://genomicafuncional.cicese.mx/en/author/g.-mendoza-carrion/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/i.m.-cote/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/i.m.-cote/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/i.m.-cote/"
+                href="https://genomicafuncional.cicese.mx/author/i.m.-cote/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/i.m.-cote/"
+                href="https://genomicafuncional.cicese.mx/en/author/i.m.-cote/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_cruz2005857/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2005-01-01_cruz2005857/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2005-01-01_cruz2005857/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2005-01-01_cruz2005857/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_cruz2005857/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2005-01-01_cruz2005857/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/m.i.-taylor/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/m.i.-taylor/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/m.i.-taylor/"
+                href="https://genomicafuncional.cicese.mx/author/m.i.-taylor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/m.i.-taylor/"
+                href="https://genomicafuncional.cicese.mx/en/author/m.i.-taylor/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/"
+                href="https://genomicafuncional.cicese.mx/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/"
+                href="https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2005-01-01_hernandez-velazquez2005140/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/y.-schramm/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/y.-schramm/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/y.-schramm/"
+                href="https://genomicafuncional.cicese.mx/author/y.-schramm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/y.-schramm/"
+                href="https://genomicafuncional.cicese.mx/en/author/y.-schramm/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/admin/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/admin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/admin/"
+                href="https://genomicafuncional.cicese.mx/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/admin/"
+                href="https://genomicafuncional.cicese.mx/en/admin/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/people/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/people/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/people/"
+                href="https://genomicafuncional.cicese.mx/people/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/people/"
+                href="https://genomicafuncional.cicese.mx/en/people/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/courses/qpcr/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/courses/qpcr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/courses/qpcr/"
+                href="https://genomicafuncional.cicese.mx/courses/qpcr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/courses/qpcr/"
+                href="https://genomicafuncional.cicese.mx/en/courses/qpcr/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/courses/adsm/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/courses/adsm/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/courses/adsm/"
+                href="https://genomicafuncional.cicese.mx/courses/adsm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/courses/adsm/"
+                href="https://genomicafuncional.cicese.mx/en/courses/adsm/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/armando-mendoza-flores/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/armando-mendoza-flores/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/armando-mendoza-flores/"
+                href="https://genomicafuncional.cicese.mx/author/armando-mendoza-flores/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/armando-mendoza-flores/"
+                href="https://genomicafuncional.cicese.mx/en/author/armando-mendoza-flores/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/courses/bma/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/project/nsubno/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/courses/bma/"
+                href="https://genomicafuncional.cicese.mx/project/nsubno/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/courses/bma/"
+                href="https://genomicafuncional.cicese.mx/en/project/nsubno/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/carmen-e.-vargas-peralta/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/courses/bma/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/carmen-e.-vargas-peralta/"
+                href="https://genomicafuncional.cicese.mx/courses/bma/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/carmen-e.-vargas-peralta/"
+                href="https://genomicafuncional.cicese.mx/en/courses/bma/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/clara-elizabeth-galindo-sanchez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/carmen-e.-vargas-peralta/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/clara-elizabeth-galindo-sanchez/"
+                href="https://genomicafuncional.cicese.mx/author/carmen-e.-vargas-peralta/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/clara-elizabeth-galindo-sanchez/"
+                href="https://genomicafuncional.cicese.mx/en/author/carmen-e.-vargas-peralta/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/claudia-ventura-lopez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/tag/concluido/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/claudia-ventura-lopez/"
+                href="https://genomicafuncional.cicese.mx/tag/concluido/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/claudia-ventura-lopez/"
+                href="https://genomicafuncional.cicese.mx/en/tag/concluido/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/project/metabar/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/edna-sanchez-castrejon/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/project/metabar/"
+                href="https://genomicafuncional.cicese.mx/author/edna-sanchez-castrejon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/project/metabar/"
+                href="https://genomicafuncional.cicese.mx/en/author/edna-sanchez-castrejon/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/edna-sanchez-castrejon/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/fabiola-lafarga-de-la-cruz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/edna-sanchez-castrejon/"
+                href="https://genomicafuncional.cicese.mx/author/fabiola-lafarga-de-la-cruz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/edna-sanchez-castrejon/"
+                href="https://genomicafuncional.cicese.mx/en/author/fabiola-lafarga-de-la-cruz/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/project/microrna/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/courses/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/project/microrna/"
+                href="https://genomicafuncional.cicese.mx/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/project/microrna/"
+                href="https://genomicafuncional.cicese.mx/en/courses/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/project/omaya/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/grecia-d.-sanchez-rosales/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/project/omaya/"
+                href="https://genomicafuncional.cicese.mx/author/grecia-d.-sanchez-rosales/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/project/omaya/"
+                href="https://genomicafuncional.cicese.mx/en/author/grecia-d.-sanchez-rosales/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/courses/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/project/sosf/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/courses/"
+                href="https://genomicafuncional.cicese.mx/project/sosf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/courses/"
+                href="https://genomicafuncional.cicese.mx/en/project/sosf/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/grecia-d.-sanchez-rosales/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/hector-raul-santos-cervera/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/grecia-d.-sanchez-rosales/"
+                href="https://genomicafuncional.cicese.mx/author/hector-raul-santos-cervera/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/grecia-d.-sanchez-rosales/"
+                href="https://genomicafuncional.cicese.mx/en/author/hector-raul-santos-cervera/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/project/nsubno/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/project/metabar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/project/nsubno/"
+                href="https://genomicafuncional.cicese.mx/project/metabar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/project/nsubno/"
+                href="https://genomicafuncional.cicese.mx/en/project/metabar/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/jose-manuel-morales/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/jose-manuel-morales/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/jose-manuel-morales/"
+                href="https://genomicafuncional.cicese.mx/author/jose-manuel-morales/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/jose-manuel-morales/"
+                href="https://genomicafuncional.cicese.mx/en/author/jose-manuel-morales/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/miguel-a.-martinez-mercado/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/miguel-a.-martinez-mercado/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/miguel-a.-martinez-mercado/"
+                href="https://genomicafuncional.cicese.mx/author/miguel-a.-martinez-mercado/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/miguel-a.-martinez-mercado/"
+                href="https://genomicafuncional.cicese.mx/en/author/miguel-a.-martinez-mercado/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/miguel-a.-tripp-valdez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/project/microrna/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/miguel-a.-tripp-valdez/"
+                href="https://genomicafuncional.cicese.mx/project/microrna/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/miguel-a.-tripp-valdez/"
+                href="https://genomicafuncional.cicese.mx/en/project/microrna/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/oscar-e.-juarez/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/oscar-e.-juarez/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/oscar-e.-juarez/"
+                href="https://genomicafuncional.cicese.mx/author/oscar-e.-juarez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/oscar-e.-juarez/"
+                href="https://genomicafuncional.cicese.mx/en/author/oscar-e.-juarez/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/pavel-e.-galindo-torres/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/pavel-e.-galindo-torres/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/pavel-e.-galindo-torres/"
+                href="https://genomicafuncional.cicese.mx/author/pavel-e.-galindo-torres/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/pavel-e.-galindo-torres/"
+                href="https://genomicafuncional.cicese.mx/en/author/pavel-e.-galindo-torres/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/ricardo-gomez-reyes/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/ricardo-gomez-reyes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/ricardo-gomez-reyes/"
+                href="https://genomicafuncional.cicese.mx/author/ricardo-gomez-reyes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/ricardo-gomez-reyes/"
+                href="https://genomicafuncional.cicese.mx/en/author/ricardo-gomez-reyes/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/roman-diaz-polo/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/author/roman-diaz-polo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/author/roman-diaz-polo/"
+                href="https://genomicafuncional.cicese.mx/author/roman-diaz-polo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/author/roman-diaz-polo/"
+                href="https://genomicafuncional.cicese.mx/en/author/roman-diaz-polo/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/courses/tbm/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/project/omaya/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://genomicafuncionallab.netlify.app/courses/tbm/"
+                href="https://genomicafuncional.cicese.mx/project/omaya/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genomicafuncionallab.netlify.app/en/courses/tbm/"
+                href="https://genomicafuncional.cicese.mx/en/project/omaya/"
                 />
   </url><url>
-    <loc>https://genomicafuncionallab.netlify.app/en/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://genomicafuncional.cicese.mx/en/courses/tbm/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://genomicafuncional.cicese.mx/courses/tbm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genomicafuncional.cicese.mx/en/courses/tbm/"
+                />
   </url>
 </urlset>

@@ -36,7 +36,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ClaraGalindo3
+  link: https://twitter.com/@GenomFuncCicese
   label: Follow me on Twitter
   display:
     header: true
@@ -63,3 +63,8 @@ highlight_name: true
 user_groups:
 - Researchers
 ---
+
+
+Es bióloga por la Universidad Veracruzana, con estudios de posgrado en la UABC y CIBNOR, en biología molecular y genómica poblacional. Realizó entrenamiento en genómica funcional, en una estancia posdoctoral en IFREMER, Francia, y continuó con estancias posdoctorales en el CIBNOR, en la misma línea de investigación.
+
+En el CICESE es investigadora en el Departamento de Biotecnología Marina y actualmente tiene a su cargo del laboratorio de Genómica Funcional de Organismos Marinos. Sus investigaciones se centran en el estudio de las adaptaciones fisiológicas y estrategias reproductivas ante cambios ambientales, a nivel genómico y transcriptómico en organismos marinos. También trabaja con genómica poblacional y metabarcoding de organismos marinos.

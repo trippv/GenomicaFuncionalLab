@@ -29,17 +29,17 @@ interests:
 # Dentro de mis intereses se encuentran los procesos inmunológicos, así como la expresión de genes (en este caso particular la transcriptómica). Así mismo es de mi interés el buceo científico y el repoblamiento de especies de importancia ecológica y económica.
 
 # redes sociales: solo se usara RG, ORCID, y correo
-social:
+#social:
 # Correo electronico:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'miguel.tripp@gmail.com'
   
 # google scholar
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  name: google scholar
-  link: 
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   name: google scholar
+#   link: 
   
 # github
 #- icon: github

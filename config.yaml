@@ -5,7 +5,13 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Genómica Funcional # Website name
-baseurl: 'https://genomicafuncionallab.netlify.app/' # Website URL
+
+# Base url asignado por SI cicese
+#baseurl: 'https://genomicafuncionallab.netlify.app/' # Website URL
+
+# Base url de prueba en netlify
+baseurl: 'https://genomicafuncional.cicese.mx' # Website URL
+
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -68,3 +74,4 @@ related:
       weight: 100
     - name: categories
       weight: 70
+

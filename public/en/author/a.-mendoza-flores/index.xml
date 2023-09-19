@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Mendoza-Flores | Genómica Funcional</title>
-    <link>https://genomicafuncionallab.netlify.app/en/author/a.-mendoza-flores/</link>
-      <atom:link href="https://genomicafuncionallab.netlify.app/en/author/a.-mendoza-flores/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicafuncional.cicese.mx/en/author/a.-mendoza-flores/</link>
+      <atom:link href="https://genomicafuncional.cicese.mx/en/author/a.-mendoza-flores/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Mendoza-Flores</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://genomicafuncionallab.netlify.app/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
+      <url>https://genomicafuncional.cicese.mx/media/logo_huf49ac23815ee24176437461c1b12568f_253782_300x300_fit_lanczos_3.png</url>
       <title>A. Mendoza-Flores</title>
-      <link>https://genomicafuncionallab.netlify.app/en/author/a.-mendoza-flores/</link>
+      <link>https://genomicafuncional.cicese.mx/en/author/a.-mendoza-flores/</link>
     </image>
     
     <item>
       <title>Relationship between paralytic shellfish toxin content and sxtA gene copy number in different growth phases of Gymnodinium catenatum (Dinophyceae)</title>
-      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/</link>
+      <link>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/</guid>
+      <guid>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2021-01-01_mendoza-flores202168/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of the Gene sxtA (Domains sxtA1 and sxtA4) in Mexican strains of Gymnodinium catenatum (Dinophyceae) and their evolution</title>
-      <link>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/</link>
+      <link>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://genomicafuncionallab.netlify.app/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/</guid>
+      <guid>https://genomicafuncional.cicese.mx/en/publication/my-md-folder/2018-01-01_mendoza-flores2018/</guid>
       <description></description>
     </item>
     
