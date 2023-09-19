@@ -16,7 +16,8 @@ ads: Biotechnology department. CICESE
 bio: 
 
 # Agregar intro
-intro: Pretendo evaluar los mecanismos epigenéticos en _Nodipecten subnodosus_ en respuesta al incremento de la temperatura del mar. 
+intro: My interest is to understand the ecological and evolutionary processes of species subjected to fishing exploitation and their relationship with environmental changes.
+
 
 # Interests to show in About widget
 interests: 

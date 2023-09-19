@@ -7,7 +7,7 @@ widget: people
 active: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 title: Equipo de Trabajo
 subtitle: Conoce nuestro grupo de investigación

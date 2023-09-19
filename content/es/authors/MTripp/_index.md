@@ -15,7 +15,7 @@ ads: CICESE/CIBNOR
 bio:
 
 # Agregar intro
-intro: Estudio los impáctos de los cambios ambientales derivados de las actividades antropogénicas en la fisiología y capacidad de respuesta de organismos marinos.
+intro: Estudio los impactos de los cambios ambientales derivados de las actividades antropogénicas en la fisiología y capacidad de respuesta de organismos marinos.
 
 # Interests to show in About widget
 interests: 

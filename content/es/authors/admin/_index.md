@@ -36,7 +36,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ClaraGalindo3
+  link: https://twitter.com/@GenomFuncCicese
   label: Follow me on Twitter
   display:
     header: true
